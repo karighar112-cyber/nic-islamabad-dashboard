@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NIC Islamabad - Interactive Startup Showcase</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Background Decorative Elements -->
+  <div class="bg-decorations">
+    <div class="glow-orb orb-orange"></div>
+    <div class="glow-orb orb-blue"></div>
+    <div class="grid-overlay"></div>
+  </div>
+
+  <!-- Screen Wrapper -->
+  <div class="app-container">
+
+    <!-- ========================================== -->
+    <!-- 1. WELCOME SCREEN                          -->
+    <!-- ========================================== -->
+    <section id="welcome-screen" class="view-section active">
+      <div class="welcome-content">
+        <!-- Partner Logos at the Top -->
+        <div class="brand-logo-container">
+          <div class="welcome-top-logos">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILYAax3X4KrdbEiS8edrbzk7jX9KHs9bqwdQ5z1XdlSLbehkSMnC7tgEU&s=10" alt="NIC Islamabad Logo" class="top-logo logo-nic">
+            <img src="MoITT Logo-01.png" alt="Ministry of IT & Telecom Logo" class="top-logo logo-moitt">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQTn1oXvW1v-K70YAPtrx7-ZP5vBrcnz-GV_t-3Rb&s=10" alt="Ignite Logo" class="top-logo logo-ignite">
+          </div>
+        </div>
+
+        <h1 class="welcome-title">
+          <span class="text-blue">NIC</span> <span class="text-orange">Islamabad</span>
+        </h1>
+        <p class="welcome-subtitle">
+          Empowering Pakistan's brightest innovators, builders, and entrepreneurs. Discover our cohorts and explore the startups shaping the future.
+        </p>
+
+        <!-- Interactive Button -->
+        <button id="btn-explore" class="btn-primary">
+          <span>Explore Startups</span>
+          <i data-lucide="arrow-right" class="btn-icon"></i>
+        </button>
+
+        <!-- Interactive Info Cards for Lobby Context -->
+        <div class="lobby-stats">
+          <div class="stat-card">
+            <span class="stat-number">5+</span>
+            <span class="stat-label">Cohorts</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-number">100+</span>
+            <span class="stat-label">Startups Incubated</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-number">15+</span>
+            <span class="stat-label">Sectors & Verticals</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- 2. MAIN INTERACTIVE DASHBOARD              -->
+    <!-- ========================================== -->
+    <section id="dashboard-screen" class="view-section">
+      <!-- Dashboard Header -->
+      <header class="dash-header">
+        <div class="logo-area" id="btn-header-logo">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILYAax3X4KrdbEiS8edrbzk7jX9KHs9bqwdQ5z1XdlSLbehkSMnC7tgEU&s=10" alt="NIC Islamabad Logo" class="header-logo">
+          <div class="logo-text">
+            <h2>NIC <span>ISLAMABAD</span></h2>
+            <p>Startup Hub Dashboard</p>
+          </div>
+        </div>
+
+        <!-- Filter / Utility Bar -->
+        <div class="header-actions">
+          <div class="search-box">
+            <i data-lucide="search" class="search-icon"></i>
+            <input type="text" id="startup-search" placeholder="Search startups, founders or verticals...">
+          </div>
+          <button id="btn-home" class="btn-secondary">
+            <i data-lucide="home"></i>
+            <span>Home</span>
+          </button>
+        </div>
+      </header>
+
+      <!-- Main Layout Workspace -->
+      <div class="dash-content">
+        
+        <!-- Left Column: Interactive Circular Orbit -->
+        <div class="orbit-panel">
+          <div class="orbit-instruction">
+            <h3>Select a Cohort</h3>
+            <p>Tap a cohort node in the orbit below to explore its startups</p>
+          </div>
+
+          <div class="orbit-container-wrapper">
+            <div class="orbit-container">
+              <!-- Orbit lines (Decorative circles) -->
+              <div class="orbit-ring ring-outer"></div>
+              <div class="orbit-ring ring-inner"></div>
+
+              <!-- Central Hub -->
+              <div class="orbit-center">
+                <div class="center-core">
+                  <div class="core-logo">NIC</div>
+                  <span class="core-subtext">Cohorts</span>
+                </div>
+              </div>
+
+              <!-- Cohort Nodes (Positioned dynamically in JS, templates here for reference) -->
+              <div class="cohort-node" data-cohort="1" id="node-cohort-1">
+                <div class="node-wrapper">
+                  <span class="node-num">1</span>
+                  <span class="node-label">Cohort 1</span>
+                </div>
+              </div>
+              <div class="cohort-node" data-cohort="2" id="node-cohort-2">
+                <div class="node-wrapper">
+                  <span class="node-num">2</span>
+                  <span class="node-label">Cohort 2</span>
+                </div>
+              </div>
+              <div class="cohort-node" data-cohort="3" id="node-cohort-3">
+                <div class="node-wrapper">
+                  <span class="node-num">3</span>
+                  <span class="node-label">Cohort 3</span>
+                </div>
+              </div>
+              <div class="cohort-node" data-cohort="4" id="node-cohort-4">
+                <div class="node-wrapper">
+                  <span class="node-num">4</span>
+                  <span class="node-label">Cohort 4</span>
+                </div>
+              </div>
+              <div class="cohort-node" data-cohort="5" id="node-cohort-5">
+                <div class="node-wrapper">
+                  <span class="node-num">5</span>
+                  <span class="node-label">Cohort 5</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right Column: Startup List / Catalog -->
+        <div class="catalog-panel">
+          <!-- Active Cohort Header -->
+          <div class="catalog-header">
+            <div>
+              <h2 id="active-cohort-title">Cohort 1 Startups</h2>
+              <p id="active-cohort-subtitle">Showing all active companies incubated in this cohort</p>
+            </div>
+            <!-- Quick Verticals Filter -->
+            <div class="verticals-filter-wrapper">
+              <label for="vertical-select"><i data-lucide="filter"></i> Vertical:</label>
+              <select id="vertical-select">
+                <option value="all">All Sectors</option>
+                <!-- Hydrated in JS -->
+              </select>
+            </div>
+          </div>
+
+          <!-- Cards Grid -->
+          <div class="startups-grid" id="startups-grid">
+            <!-- Startup Cards will be generated by JS here -->
+          </div>
+
+          <!-- Empty State (if search/filter returns nothing) -->
+          <div class="empty-state" id="empty-state" style="display: none;">
+            <i data-lucide="info" class="empty-icon"></i>
+            <h3>No Startups Found</h3>
+            <p>Try resetting filters or changing your search query.</p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- 3. STARTUP DETAIL MODAL (POPUP)            -->
+    <!-- ========================================== -->
+    <div id="startup-modal" class="modal-overlay">
+      <div class="modal-card">
+        <!-- Close button -->
+        <button class="modal-close" id="modal-close-btn">
+          <i data-lucide="x"></i>
+        </button>
+
+        <!-- Left Accent Bar -->
+        <div class="modal-accent-bar"></div>
+
+        <div class="modal-body">
+          <!-- Modal Sidebar: Brand, logo, founder details, QR -->
+          <div class="modal-sidebar">
+            <div class="startup-logo-badge" id="modal-startup-logo">
+              <!-- JS generates beautiful placeholder or uses logo path -->
+              N
+            </div>
+            
+            <h2 class="modal-startup-name" id="modal-startup-name">Startup Name</h2>
+            <span class="modal-cohort-tag" id="modal-cohort-tag">Cohort 1</span>
+            
+            <!-- Founder info -->
+            <div class="founder-card">
+              <div class="founder-avatar" id="modal-founder-avatar">
+                <i data-lucide="user"></i>
+              </div>
+              <div class="founder-details">
+                <h4 id="modal-founder-name">Muhammad Ali</h4>
+                <p>Founder & CEO</p>
+              </div>
+            </div>
+
+            <!-- Social Links (LinkedIn & Website) -->
+            <div class="modal-social-links" id="modal-social-links"></div>
+
+            <!-- QR code dynamic section for lounges -->
+            <div class="qr-code-section">
+              <div class="qr-box" id="modal-qr-box">
+                <!-- Injected dynamically by JS -->
+              </div>
+              <div class="qr-text">
+                <p class="qr-title" id="modal-qr-title">Scan to connect</p>
+                <p class="qr-desc" id="modal-qr-desc">Get in touch with this startup instantly</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Modal Main Area: One-liner, Sectors, achievements -->
+          <div class="modal-main">
+            <!-- Headline Info -->
+            <div class="info-section">
+              <span class="section-label">One-Liner / Description</span>
+              <p class="startup-description" id="modal-startup-desc">
+                Calls Review Services via App. AI-enabled call analysis helping call centers, banks, and telcos automate customer-facing reviews.
+              </p>
+            </div>
+
+            <!-- Verticals tags -->
+            <div class="info-section">
+              <span class="section-label">Target Markets & Verticals</span>
+              <div class="modal-verticals-tags" id="modal-verticals-tags">
+                <span class="tag">Call Centers</span>
+                <span class="tag">Banks</span>
+                <span class="tag">Telcos</span>
+              </div>
+            </div>
+
+            <!-- Achievements -->
+            <div class="info-section">
+              <span class="section-label">Key Achievements & Highlights</span>
+              <ul class="achievements-list" id="modal-achievements">
+                <li>
+                  <i data-lucide="check-circle" class="check-icon"></i>
+                  <span>Successfully built and launched call monitoring app</span>
+                </li>
+                <li>
+                  <i data-lucide="check-circle" class="check-icon"></i>
+                  <span>Serviced 10+ corporate pilot clients in Telecom sector</span>
+                </li>
+                <li>
+                  <i data-lucide="check-circle" class="check-icon"></i>
+                  <span>Incubated in Cohort 1 of NIC Islamabad</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Screen Idle Toast -->
+    <div id="idle-toast" class="toast">
+      <div class="toast-content">
+        <i data-lucide="info"></i>
+        <span>Idle timeout. Returning to Home Screen in 5 seconds...</span>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

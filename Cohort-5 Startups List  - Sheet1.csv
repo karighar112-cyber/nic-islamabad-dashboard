@@ -1,0 +1,743 @@
+Sr.,Founder Full Name,Startup Name,Email Address,WhatsApp Number,City of Residence,LinkedIn Profile URL,Primary Startup Vertical  ,Current Startup Stage  ,Which best describes you?  ,Which organization best represents your previous experience?  ,What is the largest scale you have worked at before?,Do you have co-founders?  ,Co-founder(s) Names & Roles.,Co-founder(s) LinkedIn Profiles  ,What is your unfair founder advantage?  ,Are you working on this startup full-time?  ,"In one or two simple sentences, what does your startup do?  ",What do you understand about this market that most founders in Pakistan do not?,"What is your unfair competitive advantage? If a well-funded incumbent (e.g., Jazz, Careem, Alibaba) enters this market tomorrow, what specific assets or strategies prevent them from taking your market share?  ",What have you achieved in the last 90 days?  ,Lifetime Revenue (PKR),Revenue in Last 90 Days (PKR)  ,List three major growth challenges in which you believe NIC Islamabad can help you? ,Upload a 2-minute video  ,Upload Your Pitch Deck (PDF only)  ,Have you or any co-founder been incubated in any Ignite-funded NIC before?  ,Do you qualify as a women-led Startup?,How did you hear about NIC Islamabad?,I confirm all information is true and accurate. Any false or misinformation may lead to disqualification.,Column 30,"If Yes, please share startup name and name of the incubation center. (Not applicable if selected No)",Email Address,Kamran ,Comments (Hatchery),Interview ,Interview Status,Internal Grading,Final Judging Round,Invitation to Join Cohort 5,Documents Submitted at Invitation,Startup Contract,Founders Agreement,BMC,CNICs,Logo,One on One Status
+1,Zain Mudassar,Three Reach Ai,zainmudassariqbal@gmail.com,3008136142,Lahore,https://www.linkedin.com/in/zain-mudassar-iqbal/,"Deep Tech (AI, Robotics, Cyber Security, IoT etc.)",Pre-revenue,Student,,,Yes,Abdulrehman Naveed -- COO,https://www.linkedin.com/in/abdul-rahman-naveed-26a4553a1/,"My unfair advantage is that I deeply understand this problem and can execute it myself.
+
+ In everyday informal deals, where there is no evidence and no legal protection, I have personally witnessed and experienced disputes. Research is not the source of this issue. I also have the technical know-how to design and construct the core product myself, which makes it possible to iterate quickly, at a low cost, and directly translate user feedback into features. Finally, SnapProve is built specifically for Pakistan.  I know how local digital evidence laws and NADRA verification work, so the solution doesn't use foreign models but fits our system.",Yes,"SnapProve makes it possible for people to record everyday transactions with proof of identity that cannot be altered and is verified by a third party, preventing small informal transactions from eventually leading to disputes. In situations where contracts are impractical, it produces straightforward, usable evidence in minutes.","The informal economy is typically underestimated by founders due to its size and frequency of use. People don’t want “legal contracts” — they want fast, simple proof that works with how deals are actually done on the street, in markets, and in services.","Large incumbents are not designed for legal-grade proof but rather for payments, logistics, or markets. SnapProve’s advantage is deep NADRA KYC integration, evidence-first product design, and early legal precedent building, which creates regulatory and trust barriers that are slow and risky for large companies to replicate.","We finished the working prototype and finished the core MVP workflow, which includes the logic for recording proofs and verifying them. We validated the problem and solution with external reviewers after presenting SnapProve at an innovative 4.0 platform on a national scale and becoming a finalist. In addition, we established the initial tech team and are currently working on the MVP for the pilot launch.",0,0,"• Contribute to the legal validation of SnapProve by connecting us with regulators and legal experts so that our proof can be trusted on a large scale. 
+• Assistance in quickly bringing pilot projects and partnerships to real users in informal markets 
+• Real-world guidance on pricing, going to market, and moving from an MVP to a revenue-driven company",https://drive.google.com/open?id=1PikyunwiU3bwOcj5Bgs3YvqHkjQNVdyh,https://drive.google.com/open?id=1nws-4A2h_M5PhUw_zAjKulCpR64jhoe4,No,No,LinkedIn,I confirm and agree,,No,zainmudassariqbal@gmail.com,Yes,Validate if idea is his or LLM,Interview Done,Recomended to Final Round,C,Pitched,Invited to Join C5,Three Reach Ai - Cohort 5 - NIC Islamabad,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+2,Muhammad Zeeshan,Hostelized & Behostelized,zeeshan@shadowlancers.com,9.23196E+11,Islamabad/Rawalpindi,https://www.linkedin.com/in/muhammadzishan,"Deep Tech (AI, Robotics, Cyber Security, IoT etc.)",Pre-revenue,Student,,,No (Solo Founder),,,"I run a boys' hostel and am part of the Hostel City Union (100+ owners). I experience 
+the pain points daily manual rent tracking, payment chaos, maintenance headaches, and 
+have direct access to my target market. I've already presented Hostelized to 15+ fellow 
+owners, incorporating their feedback into the product. Unlike most PropTech founders, I'm 
+both the operator AND the builder: I can code the solution while understanding the real-
+world operational needs. I have the problem, the network, and the technical skills, most 
+startups would need years to achieve this combination.",Yes,"We're building a two-sided platform for Pakistan's hostel industry: Hostelized automates 
+operations for hostel owners (tenant management, payments, accounting), while Behostelized lets students discover and book verified hostel rooms online like Booking.com meets Guesty for the student housing market.","Most founders think this is a digitization problem, but it's actually a trust problem. 
+70% of Pakistani hostels operate on cash and verbal agreements because owners fear digital trails for tax purposes, not because they're tech-averse. The winning solution isn't the 
+most feature-rich software—it's the one that protects owners from tenant disputes and legal 
+issues while feeling safe enough to adopt. I learned this by running a hostel and being in 
+the Hostel City Union where owners share these fears openly. The market will pay for peace 
+of mind (audit trails, CNIC verification, dispute resolution) over productivity tools.","My competitive advantage isn't that I'll grow faster it's that I can survive longer and 
+operate profitably at a scale where big players lose money.
+
+STRUCTURAL COST ADVANTAGE (PERMANENT):
+My monthly burn is under $500 (server costs only). I operate from my hostel in Islamabad, 
+build all features myself, and handle operations solo. A corporate competitor needs 
+$50K+/month minimum (offices, sales team, management, overhead). This means:
+   • I break even at ~20 paying customers; they need 500+ to justify operations
+   • I can offer $29/month pricing permanently; they need $99+ to cover costs
+   • I can survive 5+ years on seed funding; they need rapid scale to satisfy investors
+
+This isn't temporary it's structural. In a fragmented market of 10,000+ small hostels, 
+lean operations win.
+
+TRUST-BASED DISTRIBUTION (CAN'T BE BOUGHT):
+I'm part of the Hostel City Union in Islamabad (200+ owners) as a peer operator, not a 
+vendor. When I demo software, I'm a fellow owner sharing a solution I built for myself, 
+not a salesperson. Big players will send corporate sales teams who get blocked at the door. 
+My customer acquisition happens at monthly union meetings over chai, total CAC under $50. 
+Their CAC with sales teams and marketing: $500+.
+
+Expansion is built-in through networks I already have access to: Beyond Islamabad, I have 
+connections in Jhang/Faisalabad (my hometown), and every major city (Lahore, Multan, 
+Karachi, Peshawar) has similar hostel owner associations. One satisfied customer refers 
+me to their city's WhatsApp group. I do one demo at their monthly meeting, sign 10-15 
+hostels. This is replicable but requires being trusted as an insider, not having a big 
+brand.
+
+FIRST-MOVER DATA MOAT:
+Once I have 100-200 hostels on the platform, I'll have rent pricing data, occupancy 
+benchmarks, and tenant payment patterns that don't exist anywhere else in Pakistan. 
+This makes my platform valuable beyond just software it becomes market intelligence. 
+When Behostelized launches, students will come for verified listings and reviews. 
+By the time competitors notice, I'll have the supply they need years to build.
+
+TIMELINE (REALISTIC):
+   • 1-6 month: 50-100 paying hostels in Islamabad/Rawalpindi (prove product-market fit)
+   • 7-12 months: Expand to 3-4 major cities via association referrals (200-300 total)
+   • Year 2: Launch Behostelized booking platform (creates lock-in between students + hostels)
+
+This is slow by VC standards but profitable. Big players need fast growth to justify 
+investment. I don't. By the time this market is worth their attention ($10M+ revenue), 
+I'll have:
+   *  Dominant supply in key cities
+   *  Years of tenant/rent data competitors can't replicate
+   *  Brand trust in the community
+   *  Profitable operations they can't undercut
+
+They'll acquire me, not compete with me.","BACKEND DEVELOPMENT (60% COMPLETE):
+- Built core NestJS backend with Prisma ORM and PostgreSQL database
+- Implemented authentication system with OTP login
+- Created 8 major modules with API endpoints: tenant management, room allocation, 
+  payments, expenses, inventory, staff, notifications, and reports
+- Integrated Gemini AI for chatbot queries (backend working)
+- Deployed development environment with testing infrastructure
+
+FRONTEND DEVELOPMENT (70% COMPLETE):
+- Built complete UI using React + TypeScript with Shadcn component library
+- Designed all major screens: dashboards, tenant management, admissions, analytics
+- Created responsive layouts for owner, warden, and tenant portals
+- Implemented form validations and user workflows
+
+INTEGRATION STATUS (40% COMPLETE):
+- Connected basic authentication flows (login, OTP verification)
+- Linked tenant listing and creation endpoints
+- Remaining modules need frontend-backend connection
+
+PENDING WORK (Targeting March completion):
+- Complete frontend-backend integration for all modules
+- Payment gateway integration
+- AI recommendation engine implementation
+- Facial verification module development
+- Blockchain integration for tamper-proof records
+- Comprehensive testing (unit, integration, end-to-end)
+- Production deployment and security hardening
+
+MARKET VALIDATION:
+- Presented UI mockups and backend demos to 15+ hostel owners in Islamabad union
+- Collected feature requirements (CNIC verification, cash tracking, Urdu support)
+- Running manual tenant management in my own hostel to understand workflows
+- Built waitlist of interested owners for launch
+
+CURRENT REALITY:
+Overall system is ~55-60% complete. No revenue yet. Focused on finishing development 
+by March, beta testing in April-May, commercial launch by June 2026.",0,0,"1. GO-TO-MARKET STRATEGY
+   I need help figuring out how to get customers beyond my immediate network of 200 
+   hostel owners how to price correctly, market effectively, and scale to 2,000+ 
+   customers across Pakistan.
+
+2. PAYMENT GATEWAY PARTNERSHIPS
+   Payment processing fees (2-3%) will kill our profit margins on monthly subscriptions. 
+   I need NIC's connections to negotiate better rates (under 1%) with JazzCash/EasyPaisa/other gateways 
+   so we can actually make money.
+
+3. BUSINESS FUNDAMENTALS & FUNDRAISING
+   I'm good at building software but need guidance on the business side understanding 
+   finances, setting up the company legally, hiring a team, and preparing to raise 
+   funding once we prove the product works.",https://drive.google.com/open?id=1fZBTEaB2PlgEhVqfj3_PYHglfgPkTiH_,https://drive.google.com/open?id=1WwxAReJBGmHv1PHXOum802_sdSWhlA0s,No,No,Instagram,I confirm and agree,,-,zeeshan@shadowlancers.com,Yes,Same as Pakrooms,Interview Done,Recomended to Final Round,C,Pitched,Invited to Join C5,Hostelized & Behostelized_Cohort5_NIC Islamabad,TRUE,Solo Founder,TRUE,TRUE,TRUE,TRUE
+3,Salman ullah baig,Valour.ai,salmanullahbaig@gmail.com,3155597447,Islamabad/Rawalpindi,https://www.linkedin.com/in/salman-ullah-baig-b70a256a/,FinTech,Pre-revenue,Working Professional,,,Yes,,,Because as a freelancer for 6 years I have create such project for many client so I'm willing to build a SAAS and sell it.  ,Yes,"We analyze financial markets and provide actionable insights and risk management strategies to help investors and traders make smarter, safer trading decisions.","I’ve spent the last six years building algorithmic trading systems and have developed multiple profitable models. I also have hands-on experience delivering these systems to real clients, not just testing them in theory.","We have proprietary, custom-built risk management strategies and a market-specific analysis engine for each market. These systems are unique, hard to replicate, and have been proven profitable across multiple clients in live trading, not just backtests.","In the last 90 days, we built and launched a crypto market scoring system (0–10) that analyzes the overall crypto market and signals whether it’s favorable to enter trades. The model is live, integrated into our analysis engine, and already being used to guide real trading decisions.",100000,100000,"        1.        A focused working environment with infrastructure, mentorship, and accountability to build and iterate quickly.
+        2.        Access to like-minded founders, developers, and traders to collaborate, exchange ideas, and build a strong core team.
+        3.        Partnerships and investor access, especially connections to fintech firms, financial institutions, and mentors experienced in regulated markets.",https://drive.google.com/open?id=1t7fWCTljpjcbXQCNbPNlE9dJW6cDYX3D,https://drive.google.com/open?id=1NOv5JVsb5QXtRko9xsLyZgta045u1gF2,No,No,LinkedIn,I confirm and agree,,No,salmanullahbaig@gmail.com,Yes,Experienced Founder/ Data Scientist,Interview Done,Recomended to Final Round,B,Pitched,Invited to Join C5,Salman_ValourAI_Cohort5_NIC Islamabad,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+4,Engineer Muhammad Kaleem Ullah,HostelBook,iamengineerkaleem@gmail.com,9.23032E+11,Islamabad/Rawalpindi,https://www.linkedin.com/in/iammkullah,Property Technology (PropTech) – Hostel & Accommodation Management SaaS,Pre-revenue,Working Professional,,,No (Solo Founder),,,"I have firsthand operational experience running a hostel in Pakistan for over six months, where I directly handled tenant management, rent collection, and daily operations. During this time, accounting and financial reporting were managed using PwC-standard practices through my co-founder/partner, a PwC-trained accountant. This exposed a clear gap: there is no purpose-built SaaS tailored to the operational and accounting realities of Pakistani hostels. By combining real operational pain points, enterprise-grade accounting discipline, and my technical background, I am uniquely positioned to build a product that precisely matches market needs rather than assumptions.",Yes,"HostelBook is a vertical SaaS platform that digitizes hostel and shared accommodation operations in Pakistan, covering tenant management, bed-level occupancy, rent collection, and expense tracking in one system. It enables small hostel owners to run their businesses with operational and financial clarity for the first time.","Pakistani hostels operate as high-volume, low-margin, informal businesses where owners prioritize simplicity, cash flow visibility, and trust over feature-heavy software. Generic property or accounting tools fail because they do not support bed-level economics, frequent tenant turnover, and semi-cash workflows that define this market.","If a well-funded incumbent enters this market, they will struggle with distribution, product fit, and trust, not capital. HostelBook is built from direct operator experience, embeds hostel-specific workflows and local accounting realities, and is priced and designed for informal SME adoption. Large incumbents optimize for scale and standardization; this market rewards deep vertical focus, on-ground insight, and relationship-driven adoption, which creates defensibility.","Over the last 90 days, we have built and stabilized the HostelBook MVP as a web-based SaaS application, covering core features required for hostel operations. We have onboarded an initial beta user and are actively testing the product in a real operating environment. In parallel, we conducted face-to-face validation with multiple hostel owners through existing hostel union networks, confirming strong problem–solution fit. Several owners have expressed clear willingness to pay once the product is rolled out, providing early commercial validation ahead of a broader launch.",0,0,"1. Go-to-market and growth strategy:
+Support in refining a scalable go-to-market strategy for a Pakistan-first SaaS product, including pricing, sales motion, and market expansion, informed by mentors who have successfully built and scaled local SaaS companies.
+
+2. Founder mentorship and ecosystem access:
+Access to experienced founders, operators, and industry experts who have previously built Pakistan-focused and export-oriented SaaS products, helping avoid early-stage execution mistakes and accelerate learning.
+
+3. Investor and partnership readiness:
+Guidance on building a strong investment case, financial modeling, and exposure to relevant investors and partners through NIC’s network, enabling us to prepare for fundraising and strategic partnerships at the right stage.",https://drive.google.com/open?id=1PeVWNW6jusCORCgSiJ3zgM5jysdlI11n,https://drive.google.com/open?id=1hfg9kW5AlvqxSM5sKLT2deOC7NLYqb2F,No,No,LinkedIn,I confirm and agree,,N/A,iamengineerkaleem@gmail.com,Yes,Same as PakRooms,Interview Done,Recomended to Final Round,B,Pitched,Invited to Join C5,HostelBook_Cohort5_NIC,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+5,Muhamamd Ibtasam Sarwar,Ocryz (Private) Limited,ceo@ocryz.com,9.23136E+11,Islamabad/Rawalpindi,https://www.linkedin.com/in/ibtasamsarwar/,Gig & Job Economy,Pre-revenue,Working Professional,,,Yes,"M Wasiq Zaheer ( Marketing, +92 313 5299353, cmo@ocryz.com), Ali Ashir ( Backend, +92 315 9406491, cto@ocryz.com), Shiza Khizar ( Frontend, +92 321 5836990, coo@ocryz.com) ","https://www.linkedin.com/in/mwasiqzaheer/, https://www.linkedin.com/in/ali-ashir/, https://www.linkedin.com/in/shiza-khizar-2874ab257/","I, Muhammad Ibtasam Sarwar is the CEO of the company and handles overall direction of the Synappix and the AI side as well being a Student of AI.  
+Shiza Khizar Handles the Operation side of the company being the COO. She handles the 
+Frontend of the Synappix. 
+Then we have Ali Ashir, He handles the Tech side of the company being the CTO. He handles 
+the Backend of Synappix. 
+Now we do have an AI Developer, A frontend Developer and a Backend Developer - So the 
+team can create anything - But without Marketing; The Product is not worth it.  
+So, for Content we have M Wasiq Zaheer - He is the CMO and handles the content. 
+Beside this we all are Freelancers and we face this problem EVERYDAY.",Yes,"Synappix is a complete solution for Freelancers, it includes Portfolio building, Meaningful
+networking, Verified Work Ownership and many more.","Most founders in Pakistan think this is just a freelancer tools problem and focus on templates or AI-made portfolios. What we understood is that this is actually a trust problem. Freelancers lose work not because their portfolios look bad, but because clients cannot clearly verify if the work is real and owned by them. As freelancers ourselves, we faced this problem personally and validated it by talking to more than 200 freelancers globally. The feedback from the community made it clear that this solution is urgently needed. Our strong communication and market research approach sets us apart from many founders, and the idea was also validated through discussions with industry leaders, including the CEO of the Pakistan Freelancers Association (PAFLA) and Innovista.","Our unfair advantage is that Synappix is built around trust and real work ownership, not just features. Freelancers create portfolios from their actual work, which builds credibility and makes it hard to switch once their professional identity is set. Big companies can build tools fast, but they cannot quickly earn freelancer trust or build verification systems that rely on real data and community adoption. As freelancers ourselves, with early community access and industry validation, we understand this market better than large incumbents.","In the last 90 days, we launched a working product demo at demo.synappix.com, clearly showcasing our core USP of portfolio creation built on real user data. We finalized the portfolio module and are now preparing to merge it with our gigs module to pilot the end-to-end product with early users. During this period, we also won the Rawalpindi Chamber of Commerce & Industry Business Idea Competition 2025, providing third-party validation from industry leaders. In parallel, we initiated structured content creation to build early awareness and start community-led distribution.",0,0,"Our major growth challenges include defining a strong go-to-market strategy to acquire and convert users at scale, refining a sustainable business and revenue model, and building industry partnerships that can accelerate trust and adoption. We believe NIC Islamabad can help us through mentorship, strategic guidance, and access to its network to overcome these challenges and scale Synappix effectively.",https://drive.google.com/open?id=1SaGofdxPoCC51s4f2xp_7fTTIMiK1J-v,https://drive.google.com/open?id=1XxuuInTFUMqKIoy-b9K2VtUVBmit4t6T,No,No,Instagram,I confirm and agree,,NA,ibtasamsarwarf22@nutech.edu.pk,Yes,,Interview Done,Recomended to Final Round,A,Pitched,Invited to Join C5,Ocryz_Pvt_Ltd_Cohort5_NIC Islamabad,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+6,Zulfiqar Ali Mir,Black Iron Quantum AI,manager.equity.finance@gmail.com,+92 322 5150501,Islamabad/Rawalpindi,https://www.linkedin.com/in/zulfiqar-ali-mir,FinTech,Early revenue,Deep Tech Researcher,,,Yes,Khairun Nissa Batool - Product & Customer Success,Not available (will be created soon),"My unfair founder advantage is a rare combination of deep-tech AI expertise and real finance-domain execution. I have built and deployed agentic financial intelligence systems using Neo4j graph intelligence to model complex financial relationships for ethical risk and credit analysis. I also bring strong quantitative strength (Econometrics) and hands-on experience in equity research, financial modeling, and business intelligence, along with proven national-level validation through winning an AI FinTech competition. This mix of technical depth + finance credibility + execution ability makes me uniquely positioned to build a scalable, explainable, and responsible FinTech platform.",Yes,"ZulfiQode is an agentic financial intelligence platform that helps organizations assess ethical risk and creditworthiness using graph-based relationship modeling and explainable AI. We turn complex financial data into transparent, auditable decisions for lenders and enterprises.","Most credit and risk decisions in Pakistan are still built on isolated scoring, limited data signals, and manual judgment, which fails in real-world networks where fraud, defaults, and risk are relationship-driven. I understand that the real competitive edge in this market is not just AI accuracy—it is explainability, regulatory defensibility, and graph-driven insight that institutions can trust and act on.","Our unfair advantage is our proprietary graph-based risk intelligence layer built on Neo4j, which captures relationship-driven risk patterns that traditional scoring and generic ML models miss. We are building domain-specific risk workflows, explainable decision traces, and a continuously improving knowledge graph from real customer use cases—creating high switching costs and faster deployment than large incumbents who rely on generic systems. Additionally, our agentic architecture enables adaptive reasoning, compliance-ready reporting, and rapid customization for Pakistani financial and enterprise realities, which is difficult to replicate quickly even with funding.","In the last 90 days, we have validated the product with a customer in the Oil Marketing sector, refined our agentic risk + credit analysis workflows, and strengthened our Neo4j graph-based intelligence engine for relationship-driven risk detection. We also improved our explainable AI reporting layer to support decision traceability for enterprise and financial use cases, and moved closer to production readiness through iterative customer feedback.","PKR 2,000,000","500,000","Enterprise Sales & Partnerships
+We need support in building a repeatable go-to-market strategy, accessing the right decision-makers, and converting pilots into long-term contracts with banks, lenders, and large enterprises.
+
+Product Scaling & Compliance-Ready Deployment
+We want guidance to move from a working prototype to a secure, scalable, production-grade platform with proper data governance, privacy, and auditability required by regulated industries.
+
+Fundraising & Business Model Refinement
+We need help refining pricing, packaging, and unit economics, and preparing for investment readiness through pitch improvement, traction storytelling, and connections to investors and strategic partners.",https://drive.google.com/open?id=1nmi2XzJIxAXXZsXUCSJ-EVemFQpCDOjQ,https://drive.google.com/open?id=1ap2CCtvfK_STMNIjsQ-8IerxbGboFE7k,No,Yes,LinkedIn,I confirm and agree,,Not applicable ,manager.equity.finance@gmail.com,Yes,Masud Sb to interview him for Round-2,Interview Done,Recomended to Final Round,A,Pitched,Invited to Join C5,Black Iron Quantum AI_Cohort5_NIC Islamabad,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+7,Shafiq Ur Rehman Khan,Cognivox,shafiq.rehman@namal.edu.pk,-5143697,Mianwali,https://www.linkedin.com/in/shafiq-khan-63a97293/,EdTech,Pre-revenue,Working Professional,,,Yes,"Ms. Shehar Bano
+Ms. Anila Younis",,"My unfair founder advantage lies in the combination of deep academic expertise in Artificial Intelligence and direct, long-term immersion in the education ecosystem. With over six years in academia and a PhD in AI, I understand not only how to build intelligent systems, but also the real structural gaps in classrooms, curriculum delivery, assessment, and student progression.
+
+Unlike many EdTech founders who approach education purely from a technology or business perspective, I operate from inside the system. I have firsthand experience with curriculum design, learning outcome mapping, student behavior patterns, and institutional constraints. This allows me to design AI-driven solutions that are pedagogically sound, scalable, and aligned with real educational needs — not just technically impressive.
+
+Additionally, my focus on applied, safety-aware, and deployable AI systems enables me to build solutions that are practical for local institutions and adaptable for global expansion. This dual lens — academic depth and real-world implementation — creates a strong, defensible advantage in building impactful EdTech innovation.",Yes,"Coginvox transforms recorded lectures into intelligent knowledge graphs aligned with CLOs, allowing students to visually explore concepts and ask questions to a context-aware AI/VR instructor that provides grounded, lecture-specific responses.","Most EdTech founders in Pakistan focus on content delivery or exam preparation, but the real institutional pain lies in outcome alignment, accreditation compliance (OBE), and quality assurance automation. Universities struggle with CLO-PLO mapping, lecture documentation, and measurable learning evidence — yet these processes remain largely manual, fragmented, and audit-driven rather than intelligence-driven.
+
+I understand that the true opportunity is not just digitizing lectures, but transforming academic delivery into structured, analyzable knowledge systems that serve students, faculty, and accreditation bodies simultaneously. The future of EdTech in Pakistan is not more videos — it is intelligent academic infrastructure.","Our unfair competitive advantage lies in deep institutional integration and domain-specific intelligence rather than just technology infrastructure.
+
+First, Coginvox is built around Outcome-Based Education (OBE), CLO-PLO mapping, accreditation workflows, and lecture-level knowledge structuring — processes that require deep academic understanding and long-term trust relationships with universities. As an academic insider with years of direct involvement in curriculum design and compliance processes, I have contextual access and credibility that large incumbents typically lack.
+
+Second, our system builds structured, lecture-specific knowledge graphs and grounded AI models trained on institution-owned content. This creates high switching costs: once a university’s lectures, mappings, and quality data are embedded into our system, migration becomes complex and risky.
+
+Third, our strategy is institutional embedding, not mass-market scaling. Telecom or e-commerce giants excel at consumer platforms, but universities require pedagogical alignment, regulatory compliance, faculty onboarding, and trust-based adoption cycles. These are slow-moving, relationship-driven markets where domain specialization beats capital.
+
+If a well-funded incumbent enters tomorrow, they may replicate features — but they cannot quickly replicate institutional trust, pedagogical depth, localized accreditation expertise, and the structured academic data layer we are building.","In the last 90 days, we architected and deployed a working classroom prototype that performs speaker identification, diarization, transcription, and automated knowledge graph generation from live lectures. We resolved major multi-speaker and noise-handling challenges, validating the technical feasibility of lecture-level academic intelligence.",0,0,"NIC Islamabad (National Incubation Center Islamabad) could potentially provide strong support:
+
+Access to Funding and Investment Opportunities
+Mentorship and Technical Guidance
+Market Access and Networking",https://drive.google.com/open?id=1MnKGjLpGegougGtyEwpGF8gwk-mgM6xZ,https://drive.google.com/open?id=1b_8abRCv0uVAPghJeUJorEy6wMdZ4tJX,No,Yes,University Outreach,I confirm and agree,,Not Applicable ,shafiq.rehman@namal.edu.pk,Yes,,Interview Done,Recomended to Final Round,C,Pitched,Invited to Join C5, Cognivox_Cohort5_NIC Islamabad,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+9,Mohammad Ehtasham Balland,AMAS Gravity,ehtasham.balland@gmail.com,3156450213,Islamabad/Rawalpindi,https://www.linkedin.com/in/ehtasham-balland-04701a104/,AI Productivity,Pre-revenue,Working Professional,,,No (Solo Founder),NA,NA,"My unfair advantage lies in scaling products from 0 to $10M in annual recurring revenue (ARR). As a growth marketer, I have managed over $50 million in ad spend, consistently delivering positive ROI through data-driven acquisition, conversion optimisation, and full-funnel growth strategies.",No,"I am currently building an AI-powered task management platform where I am fine-tuning open-source models to convert speech into structured actions. The system transcribes spoken input, intelligently identifies tasks, extracts actionable items, and organises them into checklists turning unstructured voice data into clear, executable workflows.","I deeply understand the market dynamics of this niche and the underlying AI architectures required to build a scalable product. Having previously scaled products to $10M ARR, I approach this venture with both technical clarity and commercial discipline.
+
+While many founders in Pakistan primarily focus on the local market, my strategy is global from day one. I understand what it takes to penetrate and scale in Tier 1 markets from positioning and product-market fit to performance marketing, monetization, and sustainable growth.","A well-trained model is only part of the equation. The real differentiator is go-to-market execution. My unfair advantage is proven experience in scaling products internationally understanding user behavior in Tier 1 markets, optimizing paid acquisition at scale, and building sustainable revenue engines.","Completed the Design
+Build an App in KMM
+Apps are ready to launch on Android and iOS
+Fine Tuning the open source model now.
+But going for a launch soon, while finetuning the model will remain a ongoing process.",0,0,"1. Will help me get credits from Google Cloud and other providers.
+2. Will give me resources so i can hire and give the resources some space to work.
+3. Will open opportunities for funding rounds",https://drive.google.com/open?id=1Dnj7NuEzAtZRUV7dLWyravjPmEwdE1On,https://drive.google.com/open?id=11uh4xOEOP-xoN2LDi5hZWIz1i1sfV-sH,No,No,LinkedIn,I confirm and agree,,None,ehtasham.balland@gmail.com,Yes,"Expereinced Growth Professional, Ex Vyro",Interview Done,Recomended to Final Round,A,Pitched,Invited to Join C5,AMAS Gravity_Cohort5_NIC Islamabad,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+10,Muneeb Khan,Insynia,munibkhan7737@gmail.com,9.71566E+11,Islamabad/Rawalpindi,https://linkedin.com/in/muneebjs,"Deep Tech (AI, Robotics, Cyber Security, IoT etc.)",Pre-revenue,Second-time Founder,Binance and Dubizzle,Managed a team of 25 at binance which was responsible for rolling out end to end exchanges for 10m+ users and transaction volume of upto 10s of billions of dollars,Yes,"Saniya Vardak(CMO), Anas Ayubi(CPO)","https://www.linkedin.com/in/sanyavardak?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app, https://www.linkedin.com/in/anasayubi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app","I have been working in the tech for the last 10 years,I understand the product problems first hand and have seen the practices being used in the large tech companies, i want to enable smaller software companies to have those same efficient processes as the big companies are able to afford in a fraction of cost",Yes,AI native end to end product management,"I have seen the jira and trello being replaced by better alternatives with the likes of linear and clickup
+
+As the AI has started writing 80% of the code, new suite of product management tools will be needed which are equipped to handle the AI driven software development 
+
+I have managed enough teams to understand the core of the problem and have initial dozen of close network friends who will be willing to give it a try","We will be targeting global market and will be operating in a specific niche of small to medium software companies, once they’re hooked, it’s very costly to move to an alternative unless our product is really bad, which i hope it won’t be","Built the MVP, on boarded 3 clients to run the pilot ",0,0,"We would love to leverage the alumni network of NIC to get our initial beta customers.
+
+NIC will give us credibility which will help us in our GTM
+
+Potentially connecting with the right investors",https://drive.google.com/open?id=1F4JzkVnT3YJHt5jvAl2JFDHQlQHgHMQn,https://drive.google.com/open?id=1mwAhzwDHMpoPHXOyX9HTOL3cYl2yGSBq,No,Yes,Alumni Referral,I confirm and agree,,No applicable,muneeb@insynia.ai,Yes,"Founder Ex Binance, Co-Founder Saniyah Verdak",Interview Done,Recomended to Final Round,A,Pitched,Invited to Join C5,Insynia_Cohort5_NIC Islamabad,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+11,Haider Madad,Infersync,founder@infersync.com,4.47865E+11,Multan,https://www.linkedin.com/in/hmadad/,"Deep Tech (AI, Robotics, Cyber Security, IoT etc.)",Pre-revenue,Second-time Founder,A funded robotics startup,"Previously, I built and launched MNS Robotics where we developed and deployed our first production hardware units, secured early customers in poultry and feed milling businesses, and operated with initial seed funding.",No (Solo Founder),,,"I have hands-on experience building and shipping technical systems under real operational constraints. I think in terms of execution, accountability, and systems design, which directly aligns with building an AI-driven operations platform like Infersync.",Yes,"Infersync is an AI powered COO platform that manages engineering teams and AI agents through GitHub. It automates task division, cost tracking, and accountability so founders can delegate operational oversight.","Most founders here focus on local service markets and low pricing. I understand that global product companies will pay for systems that enforce engineering accountability, cost control, and operational automation at scale.","Our moat is proprietary GitHub-native execution and cost data that compounds over time, creating workflow lock-in. We are building for deep operational control and accountability, not surface-level features, which makes the system harder to replicate than it appears.","In the last 90 days we shipped a production ready GitHub App with full multi org support, clock in and clock out tied to issues, automated cost calculation based on hourly rates, CSV billing exports, and production grade observability and caching. We finalized pricing tiers and are currently integrating AI using OpenAI and Anthropic APIs to automate issue creation, task assignment, and accountability workflows. We are now preparing for initial pilot onboarding.",0,0,"Warm introductions to product company founders and CTOs for pilot onboarding.
+Investor access and fundraising strategy refinement.
+B2B go to market mentorship and distribution support.",https://drive.google.com/open?id=17nu_rRcVQleD2gWjslw6x1xSuLbVjBAT,https://drive.google.com/open?id=1l5UkgW0aAsPbJE0WDtZonXMsI3bhlbfN,No,No,LinkedIn,I confirm and agree,,Not applicable,founder@infersync.com,Yes, ,Interview Done,Recomended to Final Round,A,Pitched,Invited to Join C5,Infersync's NIC Cohort 5 Documents,TRUE,Solo Founder,TRUE,TRUE,TRUE,TRUE
+13,Muhammad Huzaifah Sahmi,Innovator HuzSam,innovatorhuzsam@gmail.com,9.23218E+11,Layyah,https://www.linkedin.com/in/m-huzaifah-sahmi-461b1b384/?skipRedirect=true,EdTech,Scaling,Working Professional,,,No (Solo Founder),,,"My unfair advantage is that I built this company from inside the problem.
+
+I personally handled admissions, student coordination, content creation, teaching, operations, marketing, and system gaps before scaling the team. I understand the operational leaks, teacher accountability issues, retention gaps, and conversion bottlenecks firsthand, not theoretically.
+
+Unlike traditional founders who build platforms from distance, I have already validated demand, generated revenue, built an active team, and grown an engaged audience before formal system automation.
+
+I combine:
+
+Operational experience
+
+Digital media growth capability
+
+Revenue traction
+
+Cost discipline
+
+Direct market understanding
+
+This allows me to design systems that solve real bottlenecks, not hypothetical ones.",Yes,"We combine education and technology to deliver skill-based training through a scalable, automation-driven digital platform.","Most founders in Pakistan focus only on selling courses, but the real problem in this market is not access to education, it’s retention, accountability, and operational inefficiency.
+
+I understand that growth in this sector doesn’t come from more marketing alone; it comes from structured systems, teacher time control, conversion tracking, and automation-driven scalability, areas where most institutes remain manual and leak revenue. And Most importantly we focus on digital first solutions & skill based trainings.","Our competitive advantage is not just content, it is our integrated ecosystem of audience, operational data, instructor network, and system-driven infrastructure built from ground-level experience.
+
+Unlike large incumbents, we are not a marketplace or a mass platform. We operate a tightly controlled, retention-focused, automation-driven training model where we directly manage instructor accountability, student tracking, and performance metrics. Our strength lies in operational efficiency, community trust, and localized execution speed, areas where large corporations struggle due to bureaucracy and generic models.","In the last 90 days, we generated approximately PKR 1.7M in revenue, expanded our instructor team, and strengthened our digital distribution channels. We structured our operational model for automation, prepared a detailed system architecture for our web-based control platform, and developed a complete ROI projection model to support institutional fundraising discussions. We also improved our content output consistency and advanced monetization planning across training and digital channels. We now have Verified Digital Pages i.e. Facebook Page, & Instagram. We gained 15,000+ Subscribers on YouTube.","3,500,000 (In our 9 months of Operations)","1,700,000","Scalable System Architecture & Product Development
+As we transition from manual operations to a web-based or centralized digital application automation system, we require guidance on building a scalable, secure, and investor-ready technical infrastructure. Strategic mentorship in product architecture and execution discipline would significantly accelerate this phase.
+
+Institutional Fundraising & Investor Access
+While we have validated revenue and prepared structured ROI projections, access to experienced investors and refined fundraising strategy would help us secure growth capital more efficiently and negotiate stronger equity terms.
+
+Operational Scaling & Governance Frameworks
+As our team expands, we need support in implementing structured KPIs, governance systems, compliance readiness, and scalable operational processes to transition from a growing institute into a system-driven organization.",https://drive.google.com/open?id=1gZ3TgPRTgI5eK5HDaXYRAC0-e37LM5qp,https://drive.google.com/open?id=1al1M9heSFcuweaCi36ZyHLRjsvn24zij,No,No,Other (Please Specify),I confirm and agree,,Not Applicable,innovatorhuzsam@gmail.com,Yes,,Interview Done,Recomended to Final Round,C,Pitched,Invited to Join C5,NIC-Islamabad,TRUE,Solo Founder,TRUE,TRUE,TRUE,FALSE
+14,Muhammad Shayan Umar,XtarzVA,shayanumarmuhammad@gmail.com,3166072085,Islamabad/Rawalpindi,https://pk.linkedin.com/in/muhammad-shayan-umar,ecommerce,Pre-revenue,Working Professional,,,Yes,Maimoona islam ,https://www.linkedin.com/in/maimoona-islam-772499306/,"I’m the right person to solve this because I’ve lived the problem: e-commerce sellers waste hours on product research, listing copy, and pricing—work that should be automated. I’ve built XtarzVA from the ground up, combining AI agents for research, competitor analysis, profit calculation, and listing generation into one pipeline. That hands-on experience—plus technical execution and a clear view of what sellers actually need—lets me ship a product that solves real workflow pain, not a generic “AI tool.” I’m building the automation I wished existed when managing listings and margins myself.
+",Yes,"XtarzVA uses AI agents to automate the heavy lifting of selling online: research, competitor analysis, listing copy, profit math, and inventory planning. Sellers get one workflow instead of juggling spreadsheets and manual tasks.
+","Most founders in Pakistan aim at local consumers or large enterprises; I see that the real opportunity is serving the many sellers already on global marketplaces who need affordable, purpose-built AI automation—not generic tools—to scale without a big team.","Our advantage is narrow focus: we only solve e-commerce seller workflows. Incumbents (Jazz, Careem, Alibaba) earn from other lines and serve different customers, so they’re unlikely to prioritise this niche. We’re betting on speed, depth in one segment, and becoming the default tool for sellers before any well-funded player enters.","In the last 90 days we’ve built and shipped the core product: XtarzVA’s full stack (FastAPI backend, React frontend) and an AI pipeline that automates product research, competitor analysis, profit calculation, listing generation, and inventory planning in one flow. The app is runnable end-to-end and ready for pilot users. Next 90 days we’re focused on [e.g. 5–10 pilot sellers / first paying customers / a specific partnership].
+",0,0,"1. Access to pilot customers and distribution — We need early e-commerce sellers and SME networks to test XtarzVA and refine the product. We believe NIC Islamabad can help through its network of startups, corporates, and ecosystem partners so we can run structured pilots and get real usage and feedback.
+2. Investor and mentor access — We need guidance on unit economics, pricing, and scaling, plus introductions to angels and VCs who understand SaaS and e-commerce. We believe NIC’s mentorship and investor connections can help us sharpen our story and raise our first institutional round.
+3. Visibility and credibility in the Pakistan ecosystem — As a B2B AI product, we need to be seen as a serious, trustworthy solution. We believe being part of NIC Islamabad’s cohort and programs will give us credibility, exposure at demo days and events, and connections that help us sign first customers and partners.
+",https://drive.google.com/open?id=1aTBhJne-l59_z2mFVh9lqcQwIS-1eru0,https://drive.google.com/open?id=1vupW6rqBp59W5dWz_08yQ8KDb1-OVDVI,No,Yes,Instagram,I confirm and agree,,Startup name: XtarzVA Name of incubation center: National Incubation Center Islamabad (NIC Islamabad),maimoonakhan4143@gmail.com,Yes,,Interview Done,Recomended to Final Round,B,Pitched,Invited to Join C5,XtarzVA_Cohort5_NIC Islamabad,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15,WASIM ABBAS,TechsaCare,wasim.abbas@techsacare.com,9.23328E+11,Islamabad/Rawalpindi,https://www.linkedin.com/company/88689994,HealthTech,Scaling,Second-time Founder,"SAMSUNG ELECTRONICS, HQ, SOUTH KOREA","1. At Samsung, Manage Portfolio of $250M Yearly Revenue. 2. At TechsaSoft (Which I started in 2021), reached 4.8M AED Yearly revenue",Yes,Ziafat Hussain & COO,,"(1) 20Years of Business Development Experience (Global Corporates, IT Service Industry, Tech Startup) (2) Connections & Network created in 20years (3) Mindset ",Yes,"[Preventive HealthCare for Women : Making HealthCare accessible & Cheap for Everyone] Where on one End have B2C product (Mobile Apps) related to Pregnancy, Women health & wellness and on other end have B2B Product (HIS System) specialized for Gyne & Obs hospitals. ","6.89M Yearly Births (4th Largest in the World). Still Blue Ocean & not much competition. Once successful in Pakistan, easily can expand into Middle East which is another big untapped Market (~6M+ Yearly births).  ",They will enter with corporate mindset & system. We are building win-win relationship with Service Providers (Drs) & Service Seekers ,(1) Trimmed & become more laser Focus (2) Product Stability & Customers Acquired (3) 1st Paid Customers (4) Local Partnerships & MOUs,1.5 Million,1.5 Million,"(1) Schooling Fundamentals for any Product base Startup - 101 Crash Course to make our foundation strong (2) Preparing/Practicing for Pitch Decks & others, incase we ever need funding for Global expansion as currently Bootstrapping (3) Connecting with Mentors (Who previously build a Product Base start-up) (4) Right Environment & Right people access (5) Possible Connections in Pakistan (6) Small Work space in Islamabad for meetings & work    ",https://drive.google.com/open?id=1WxtgdZMANOGnZDbA13qruwliRLkjwWR1,https://drive.google.com/open?id=1nYX1OS1yISdf-P7KebL2tNwTnaQO8YcW,No,No,Other (Please Specify),I confirm and agree,,NO,wasim.abbas@techsacare.com,Yes,Experienced Founder. Ex Samsung,Interview Done,Recomended to Final Round,A,Pitched,Invited to Join C5,TechsaCare_Cohort5_NIC Islamabad-shared,TRUE,Solo Founder,TRUE,TRUE,TRUE,TRUE
+16,Erum Burhan,D-RIGHT Technologies (Pvt.) Ltd. ,chairperson@dright.net,0300-8564742,Islamabad/Rawalpindi,https://www.linkedin.com/in/erum-b-bb1ab01a7/,HealthTech,Early revenue,Second-time Founder,"My previous experience is best represented by international development and governance organizations such as UNDP and USAID, where I worked for nearly two decades on large-scale financial, administrative, and compliance-driven projects aligned with global standards and performance excellence.  In addition, before COVID, I worked alongside my husband in a private consultancy setup, supporting different organizations in strengthening operational efficiency, improving management systems, and gaining deep insight into real-world healthcare delivery challenges.","I have worked at the scale of large international development and governance programs through organizations such as UNDP and USAID, managing complex financial, administrative, and compliance-driven projects involving multiple stakeholders and institutional systems. Additionally, through my healthcare consultancy and tertiary hospital exposure, I have operated at the scale of organizational-level healthcare transformation across clinical and administrative departments.",Yes,"Haadiyah Haque, CEO: Haadiyah Haque leads the technical and product execution of ClinTa, managing system architecture, website development, and design implementation. She coordinates development teams, oversees delivery timelines, and supports digital product communication initiatives.
+
+Dr. Burhan Ul Haque Ansari, Advisor Director: With 25+ years of healthcare leadership experience, Dr. Ansari provides clinical oversight and strategic direction for ClinTa, ensuring alignment with real hospital operations, regulatory standards, and institutional growth frameworks.","https://www.linkedin.com/in/haadiyah-haque/
+https://www.linkedin.com/in/dr-burhan-ul-haque-97933445/","My unfair founder advantage lies in a rare and difficult-to-replicate convergence of deep healthcare operational access, an already embedded clinical validation ecosystem, and extensive global professional exposure. Through my husband, who is a practicing physician and the CEO of a tertiary care hospital, I have gained firsthand understanding of hospital dynamics across both clinical and non-clinical affairs, along with direct access to a synergistic team of doctors, nurses, administrators, and IT professionals actively running, testing, and validating real-time digital requirements across all hospital departments.
+
+In parallel, my two decades of experience with reputed international organizations such as UNDP and USAID have strengthened my command over international standards, compliance, accountability, and performance-driven execution through diverse financial, administrative, and developmental projects, including international assignments. I have also contributed to software development initiatives by aligning programs with global requirements, enabling me to translate complex healthcare needs into scalable, high-quality digital solutions. 
+
+Because this blend of hospital-level operational insight, continuous clinical collaboration, and global standards-driven expertise is exceptionally rare, it would be extremely difficult for new entrants or competitors to imitate or replicate what we are building through ClinTa. ",Yes,"D-RIGHT Technologies (Pvt.) Ltd. develops a range of healthcare software that helps hospitals, clinics, and doctors streamline operations and manage data effectively through systems designed around real healthcare workflows. Its flagship product, ClinTa, a Web Builder, is an all-in-one digital platform that combines websites, appointments, EMRs, prescriptions, and billing into one unified system, replacing fragmented tools with a single affordable integrated solution.","What I understand about Pakistan’s healthcare market, that most founders do not, is that digitization here is not simply a software adoption challenge, it is a fundamental operational infrastructure gap. Most hospitals and clinics still rely on manual workflows, fragmented tools, and static marketing websites that do not support real clinical care, patient continuity, or administrative coordination.
+
+I also understand that healthcare adoption in Pakistan is deeply trust-driven and shaped by hospital hierarchies, patient safety priorities, and role-based operational control, not just technology features. A solution succeeds only when it aligns with how doctors, nurses, and administrators actually work on the ground.
+
+Through my embedded exposure in a tertiary care hospital, I have firsthand insight into these daily realities and the unmet digital requirements across clinical and non-clinical departments. This is why I am building ClinTa as a medical-grade, workflow-integrated platform designed specifically for Pakistan’s healthcare ecosystem, bridging outdated digital presence with scalable connected care.","Our unfair competitive advantage is that ClinTa is not just a technology product, it is a medical-grade platform deeply embedded in Pakistan’s healthcare ecosystem for the past five years, something that cannot be replicated by capital alone. Unlike large incumbents such as Jazz, Careem, or Alibaba, who may enter with funding and generic digital scale, ClinTa is built on real hospital-rooted integration, continuous clinical collaboration, and trust-driven adoption within healthcare institutions.
+
+ClinTa has been continuously developed, tested, and refined inside a tertiary care hospital environment, supported by an active ecosystem of doctors, nurses, administrators, and IT professionals across all departments. Purpose-built as a role-based healthcare operating ecosystem, it integrates patient portals, doctor workflows, EMRs, billing, e-prescriptions, recruitment, and continuity of care directly into the website infrastructure. This depth of workflow alignment, combined with global standards-driven quality orientation shaped through UNDP and USAID experience, creates a highly defensible moat. Even if a well-funded incumbent enters tomorrow, they would still face the hardest barrier in healthcare: operational trust, clinical adoption, and real institutional integration, which is exactly where ClinTa holds its strongest advantage.","In the last 90 days, I strategically transformed the Medical-Grade ClinTa from a hospital-embedded digital system into a structured, commercially positioned healthcare software product.
+
+In the first 30 days, I consolidated and stabilized the ClinTa Web Builder platform that had been functioning within a tertiary care hospital environment. This included refining clinical workflow integrations, strengthening role-based access controls for patients, doctors, and administrators, and ensuring the system architecture was secure, scalable, and operationally aligned with real hospital dynamics.
+
+In the next 30 days, I modularized and standardized it into a scalable, multi-client solution. I refined user interfaces, simplified deployment logic, optimized configuration settings for independent healthcare providers, and converted institution-specific customizations into adaptable, commercially viable product features.
+
+In the final 30 days, I positioned the product for structured market entry. I formalized tier-based pricing (Doctor, Clinic, and Hospital), introduced usage-based billing, strengthened onboarding workflows, and initiated targeted outreach to healthcare providers. This phase focused on aligning the product with real market needs while preparing for disciplined commercialization.
+
+In summary, during this 90-day period, I did not merely enhance a digital tool — I transitioned the Medical-Grade ClinTa Web Builder into a market-ready healthcare SaaS product with structured pricing, scalable architecture, and defined go-to-market positioning.","205,700","31,500","1. Go-To-Market Architecture & B2B Growth Discipline
+Our primary growth challenge is building a structured, repeatable B2B sales engine. We seek expert mentorship in market segmentation, pricing strategy, institutional sales frameworks, and disciplined commercialization planning.
+
+2. Brand Authority & Strategic Positioning
+As a healthcare-focused technology company, we require specialized branding guidance to position ClinTa as a credible digital infrastructure solution rather than a conventional web service.
+
+3. Ecosystem Leverage & Institutional Access
+Healthcare adoption is trust-driven and relationship-based. Access to NIC’s network of hospital administrators, healthcare associations, and strategic partners can significantly accelerate institutional onboarding and structured scale.",https://drive.google.com/open?id=1TI7Qn5KOz-2Tcp_WzALJZxIW_T8JW-wL,https://drive.google.com/open?id=10WnhZIxFUQ7zepSZpJVPNJ9Xe6A6SYXg,No,Yes,LinkedIn,I confirm and agree,,Not applicable,erumburhan@gmail.com,Yes,Founder attended multiple outreach events like WeCon and Open Week. ,Interview Done,Recomended to Final Round,A,Pitched,Invited to Join C5,D-RIGHT Tech_Cohort5_NIC Islamabad,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+17,Ahmar Rashid,meDDI,ahmar.rashid@gmail.com,3218843656,Swabi,https://www.linkedin.com/in/ahmar-rashid-b666b933/,HealthTech,Pre-revenue,Deep Tech Researcher,,,Yes,"Haider Ali Khan - Student (Frontend and AI Engineer)
+Muhammad Zaid Mohsin - Student (Web and mobile app developer)
+Ali Faisal - Student (ML researcher and engineer)
+Dr. Usman Zafar - Industrial Partner (MS of Al-Khidmat Foundation's Raazi Hospital)
+Muhammad Mohsin Zafar - Industrial Partner","https://www.linkedin.com/in/haider-ali-khan-ml/
+https://www.linkedin.com/in/zaidmohsin457/
+https://www.linkedin.com/in/ali-faisal-622007273/
+https://www.linkedin.com/in/muhammad-mohsin-zafar/","While doing my research on healthcare and AI applications in this field, I found a major problem with the non-availability of a structured and digitalized database of handwritten medical prescriptions of Pakistani doctors, and how this structuring can further lead to patient safety in Pakistan. So, being the first one to find this problem and attempt to solve it, I find myself well-suited to be a founder of this startup.",Yes,"It is a mobile app designed for doctors and pharmacists, through which they will scan a prescription and then check real-time drug-drug interactions.","The real problem isn't technology—it's trust and workflow integration.
+Most tech founders in Pakistan approach healthcare digitization as a pure software problem: ""Let's build an app and hospitals will adopt it."" They fundamentally misunderstand that healthcare workers don't resist technology because it's complicated—they resist it because it disrupts established workflows without proving immediate, tangible value.
+Here's what we understand that others miss:
+Pharmacists are overwhelmed, not incompetent. During rush hours, a single pharmacist in Pakistan handles 100-150 prescriptions. They don't have time to ""learn new software"" or ""enter data into systems."" Any solution that adds steps—no matter how sophisticated—will fail. Our insight: the technology must be invisible. Point camera, get answer. No typing, no forms, no learning curve. The interface is the prescription itself.
+The handwriting problem is uniquely Pakistani—and uniquely solvable. Western OCR solutions fail on Pakistani prescriptions not just because of ""bad handwriting,"" but because of contextual complexity: a doctor writes ""ASA 75 OD"" in Urdu script next to ""post-MI"" in English abbreviation. Standard OCR reads characters; it doesn't understand that in a cardiovascular context, ""ASA"" means aspirin, not aminosalicylic acid. This requires medical reasoning, not just vision—which is why Vision-Language Models are the breakthrough, not incremental OCR improvements. Most founders are still trying to perfect character recognition; we're building medical comprehension.
+Data is the moat, not the app. Every founder talks about ""digital health platforms."" We understand that Pakistan's first structured prescription database is more valuable than the app itself. No one—not DRAP, not hospitals, not pharma companies—knows what Pakistanis are actually being prescribed at scale. Once we have 100,000+ prescriptions flowing through our system, we don't just have a safety tool—we have the national intelligence layer for medication policy, antimicrobial resistance monitoring, and pharma supply chain optimization. That's a 10x business, not a feature.
+The customer is the pharmacist, but the buyer is the system. Individual pharmacies won't pay much for software. But pharmacy chains, hospital networks, and eventually government health programs will pay significantly for: (1) liability reduction (preventing malpractice suits from dispensing errors), (2) regulatory compliance (DRAP is moving toward mandatory prescription digitization), and (3) operational efficiency (30-40% faster processing = serving more customers). We're building for viral adoption by pharmacists but monetizing through institutional contracts—a go-to-market strategy most B2C healthcare founders miss.
+Pakistan's infrastructure ""weakness"" is our advantage. Founders see poor connectivity and low-end devices as obstacles. We see market protection. Any foreign solution requires robust internet and expensive hardware. Our offline-first architecture, optimized for mid-range smartphones, isn't a compromise—it's a barrier to entry for well-funded competitors who build for Silicon Valley infrastructure and can't easily strip down their systems.","Our moats are deeply technical, regulatory, and relational—and they compound over time.
+Technical Moat: Domain-Specific Training Data
+We've spent 18 months collecting and annotating 10,000+ real Pakistani prescriptions from partner hospitals—handwriting samples that don't exist anywhere else in the world. This isn't data you can scrape or buy. Every prescription is annotated by pharmacists and medical professionals, linking messy handwriting to correct drug names, dosages, and clinical context.
+If Jazz/Careem/Alibaba enters tomorrow, they can hire better engineers and buy more compute. But they cannot replicate our dataset without:
+
+12-18 months of hospital partnerships and ethical approvals
+Medical expertise to annotate prescriptions correctly (pharmacists, not data labelers)
+Trust from healthcare providers to share sensitive patient data
+
+By the time they build comparable training data, we'll have 500,000+ prescriptions and our model's accuracy advantage will be insurmountable. In AI, data quality compounds—every real-world prescription we process makes our model better, creating a virtuous cycle competitors can't shortcut with money.
+Regulatory Moat: DRAP Partnership & Compliance
+We're not building in isolation—we're working directly with the Drug Regulatory Authority of Pakistan (DRAP) to establish the national framework for AI-assisted prescription management. We're helping write the regulatory playbook.
+When incumbents enter, they'll face:
+
+6-12 months navigating DRAP approval processes we've already completed
+Compliance requirements we helped define (giving us first-mover advantage in meeting them)
+Institutional trust we've built through formal partnerships
+
+Large tech companies move slowly through regulatory processes. We're embedded in the regulatory ecosystem, giving us 12-18 months of protected market development even if a competitor launches.
+Network Moat: The Database Effect
+Every prescription processed strengthens our DDI detection engine and prescription pattern analytics. After processing 100,000 prescriptions, we'll have:
+
+Pakistan-specific DDI patterns that global databases don't capture
+Regional prescribing variations by city/hospital
+Real-world validation data showing which alerts pharmacists actually act on
+
+This creates network effects: the more pharmacies use PrescripAI, the smarter our system becomes for all pharmacies. A competitor starting from scratch with global drug databases but zero local data will have inferior accuracy and relevance for Pakistani healthcare context—and pharmacies will notice.
+Distribution Moat: Grassroots Adoption + Institutional Sales
+We're not competing on marketing budget—we're winning through pharmacist word-of-mouth. Our beta testing with 30 pharmacies creates evangelists who recommend us to peers. By the time an incumbent launches, we'll have 500+ pharmacy champions who've experienced real workflow improvements and won't switch for marginal feature differences.
+Simultaneously, we're locking in institutional contracts with hospital chains and pharmacy networks. Enterprise healthcare sales cycles are 6-12 months. Once a hospital system standardizes on PrescripAI and trains staff, switching costs are enormous—even if a competitor offers the product free, hospitals won't disrupt operations to migrate.
+Product Moat: Clinical Validation & Trust
+Our system has been field-tested with real pharmacists processing real prescriptions. We have:
+
+Published accuracy metrics validated by clinical pharmacologists
+Case studies of prevented medication errors
+Testimonials from healthcare providers
+
+When Jazz launches a prescription app, they'll have slick design and marketing muscle—but zero clinical credibility. Hospitals and pharmacies won't adopt healthcare AI based on brand recognition; they need evidence of safety and accuracy. Our 18 months of validation creates trust that money can't buy overnight.
+Structural Moat: Focus vs. Feature
+Large incumbents will treat prescription recognition as one feature in a broader digital health platform. We are singularly obsessed with prescription safety. Our entire team, roadmap, and R&D budget focus on this problem.
+This means:
+
+Faster iteration on prescription-specific improvements
+Deeper healthcare domain expertise
+Better product-market fit for pharmacist workflows
+
+Careem will add prescription scanning to their app; we'll have superior accuracy, better DDI logic, and tighter integration with pharmacy operations because it's all we do. In healthcare, specialists beat generalists.
+The Compounding Advantage
+In 12 months, while competitors are still collecting data and navigating approvals, we'll have:
+
+300,000+ prescriptions processed (10x current data)
+Partnerships with 3-5 hospital chains locked into multi-year contracts
+Published research establishing academic credibility
+DRAP-certified as the reference standard for digital prescription management
+
+At that point, we're not a startup—we're the infrastructure layer for medication safety in Pakistan. Competitors won't be fighting for market share; they'll be trying to integrate with our platform.
+Our unfair advantage isn't a single moat—it's a system of compounding advantages in data, regulation, trust, and focus that gets stronger with time and harder to replicate with capital alone.","Code of fully developed app, partnership with Raazi Hospital to obtain real-world dataset, MVP rotated into the hospital to get user feedback.",0,0,"1. Navigating Regulatory Pathways & Government Partnerships for Scaled Deployment
+The Challenge:
+While we have initial collaboration with DRAP and partner hospitals, scaling meDDI to 500+ pharmacies nationwide requires navigating complex regulatory frameworks, securing government health department endorsements, and potentially integrating with national health information systems. We need to:
+
+Formalize our relationship with DRAP to become the certified standard for digital prescription management
+Secure provincial health department partnerships for public sector deployment
+Navigate medical device/software classification and approval processes
+Establish frameworks for government procurement and public-private partnerships
+
+How NIC Can Help:
+NIC Islamabad's connections with government ministries, regulatory bodies, and policymakers can accelerate these relationships. We need introductions to key decision-makers in the Ministry of National Health Services, provincial health departments, and DRAP leadership. Additionally, NIC's experience helping startups navigate regulatory compliance can provide mentorship on structuring our certifications and approvals to meet government standards—turning regulatory hurdles into competitive moats.
+
+2. Securing Strategic Partnerships with Healthcare Institutions & Pharmacy Chains
+The Challenge:
+Our business model relies on institutional contracts with hospital chains, pharmacy networks, and healthcare providers—not individual consumer sales. Enterprise healthcare sales cycles are long (6-12 months), require extensive credibility-building, and demand proof of ROI. We need to:
+
+Connect with decision-makers at major hospital groups (Shaukat Khanum, Aga Khan, Lahore Care, Hameed Latif, etc.)
+Partner with pharmacy chains (Servaid, D. Watson, Fazal Din, Caring Pharmacy)
+Build relationships with healthcare insurance providers who could mandate our system for claims processing
+Establish pilot programs that demonstrate measurable impact on medication safety
+
+How NIC Can Help:
+NIC's network includes healthcare industry leaders, corporate partners, and institutional investors who can provide warm introductions and strategic guidance. We need mentorship from entrepreneurs who've successfully sold B2B/enterprise healthcare solutions in Pakistan. Access to NIC's demo days and pitch events can showcase our solution to potential hospital and pharmacy chain partners who are actively seeking digital transformation solutions. Additionally, NIC's credibility as a government-backed incubator adds institutional trust when approaching conservative healthcare organizations.
+
+3. Building a Commercialization Strategy & Sustainable Revenue Model
+The Challenge:
+We have strong technology and clinical validation, but transitioning from research project to commercially viable business requires sophisticated go-to-market strategy, pricing models, and revenue diversification. Specific challenges include:
+
+Pricing strategy: How do we balance affordability for small pharmacies with premium pricing for hospital chains?
+Revenue streams: Beyond subscription fees (SaaS), how do we monetize our prescription database through anonymized analytics for pharma companies, policy insights for government, and research partnerships?
+Intellectual property: Should we patent our algorithms? Open-source components to build ecosystem? License technology internationally?
+Fundraising roadmap: When and how much capital to raise? Should we pursue grants, angel investment, VC funding, or corporate partnerships first?
+Market expansion: Do we achieve dominance in Pakistan before expanding regionally, or pursue parallel growth in similar markets (Bangladesh, Kenya, Nigeria)?
+
+How NIC Can Help:
+NIC's mentorship network includes successful entrepreneurs, investors, and business strategists who can help us refine our business model and commercialization roadmap. We need guidance on:
+
+Structuring tiered pricing models for different customer segments
+Navigating intellectual property strategy in healthcare AI
+Preparing for investor pitches and connecting with relevant VCs/angel networks
+Learning from NIC portfolio companies that successfully scaled B2B healthcare/enterprise solutions
+Understanding unit economics, CAC/LTV optimization, and building sustainable margins
+
+Additionally, NIC's connections to international accelerators and markets can help us explore export opportunities—positioning meDDI as a solution for the Global South's medication safety challenges, not just Pakistan.
+",https://drive.google.com/open?id=1KpfMYSYbyijTwhHvUREzUGT6QWWP9Of-,,No,No,University Outreach,I confirm and agree,,Not applicable,haideraleek252@gmail.com,Yes,Researcher from GIKI but the idea doesn't make sense to me,Interview Done,Recomended to Final Round,C,Pitched,Invited to Join C5,meDDI AI_Cohort5_NIC Islamabad,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+18,"Sir Irfan Sarfraz, Dr. Abid Rafique, Mr. Zulfiqar Ali Qazilbash, Mr. Mian Idrees, Ms. Janita Khan, Mr. Hamza Khalid",Elements Learning,elementslearningeducation@gmail.com,"03365802920, 03246144661",Islamabad/Rawalpindi,"linkedin.com/in/m-irfan-sarfraz-497596374, linkedin.com/in/dr-abid-rafique-9b678a225, linkedin.com/in/zulfiqarqazilbash, www.linkedin.com/in/janita-khan , linkedin.com/in/hamza-khalid-a53955129",EdTech,Scaling,Working Professional,,,Yes,"Sir Irfan Sarfraz — Chief Knowledge Officer
+Dr. Abid Rafique — Chief Executive Officer
+Mr. Zulfiqar Ali Qazilbash — Chief Strategy Officer
+Mr. Mian Idrees — Chief Financial Officer
+Ms. Janita Khan — Program Manager
+Mr. Hamza Khalid — Business Development and Marketing Manager","linkedin.com/in/m-irfan-sarfraz-497596374
+linkedin.com/in/dr-abid-rafique-9b678a225 
+linkedin.com/in/zulfiqarqazilbash
+www.linkedin.com/in/janita-khan
+linkedin.com/in/hamza-khalid-a53955129","Our unfair advantage comes from the combination of institutional backing, execution progress, and deep domain focus.
+
+As a NUST spin-off, we have direct access to academic expertise, research capability, and the ability to offer NUST-certified teacher training. This gives us institutional credibility and certification capability that commercial competitors cannot replicate quickly.
+
+In parallel, our team has already built and deployed a complete pedagogical ecosystem, including structured curriculum, teacher manuals, LMS-based continuous teacher training, and classroom lab systems. These systems are designed to continuously improve through real classroom feedback and are already being piloted with partners, including AJK Textbook Board, Silver Oaks Schools, READ Foundation, and FDE.
+
+This combination of institutional backing, execution readiness, and early institutional adoption gives us a significant head start. Competitors may have capital, but they would need years to build the research integration, institutional trust, and implementation capability we have already established.",Yes,"Elements Learning is a NUST spin-off and research-driven education company that helps schools continuously improve teaching quality through structured curriculum, research-backed evolving pedagogy, and continuous teacher development. We intend to serve as a Centre of Excellence, translating cutting-edge continuous educational research into practical classroom implementation through continuous teacher professional development, specialised tools, and allied learning systems.","Education has evolved in most institutions of learning from a rote memorisation system into project-based learning. However, to accomplish this, most education companies and school systems in Pakistan still focus on static products such as books, labs, or one-time teacher trainings. Elements Learning has identified a huge gap in this approach. The real problem is that pedagogy is continuously evolving due to advances in learning science, AI, and EdTech. Schools lack the research capacity and systems to continuously update teaching practices, as well as to continuously evolve the allied infrastructure, which includes manipulatives, labs, teacher lesson plans, and teacher refresher trainings. Also, there is no system in place to measure pedagogical performance, which creates room for a continuous assessment framework that guides the continuous refinement of teacher training and classroom pedagogy for better outcomes and impact through feedback. 
+
+We understand that schools do not just need products — they need a long-term research and pedagogical partner that continuously evolves the pedagogical model and aligns it with advances through innovation and replication. Our envisioned Centre of Excellence will align teacher capability and classroom practices with modern educational standards. This positions Elements Learning as a continuously evolving capability and pedagogy platform, rather than a traditional education vendor.
+","Firstly, project-based learning requires not just textbooks but also manipulatives, labs, and refresher teacher training. However, not everybody can do this, since credibility is a major factor. We have partnered with NUST, which has strong credentials in teacher development, scientific research, and social sciences. NUST’s teacher training credentials are recognised both nationally and globally. This gives us a unique selling proposition that cannot be easily matched by competitors. We are a NUST spin-off with direct access to academic expertise, research capability, and institutional credibility. This enables us to continuously develop and refine pedagogy, which cannot be replicated quickly by commercial entrants.
+
+Secondly, we have already developed an integrated ecosystem consisting of curriculum, structured teacher manuals, LMS-based teacher training, and lab systems. These components are deeply interconnected and embedded in school operations, creating high switching costs. This gives us a significant time-to-market advantage over any new entrant in this space, regardless of their funding capacity or brand recognition.
+
+Unlike large incumbents who may deploy greater capital, our unique selling proposition comes from our alliance with NUST, our field-tested research-driven pedagogy, and our established classroom integration framework. Having already implemented and validated our pedagogical model in real classroom settings, we are significantly ahead of potential competitors in both readiness and execution capability.","In the past 90 days, we have formed an alliance with the AJK Textbook Board and implemented and printed our books across AJK to improve learning in mathematics.
+
+We have completed the development and refinement of the first versions of our core teacher training programs, structured teacher manuals, and curriculum frameworks across Math, Science, Language, and Early Years. These are now ready for implementation in partner schools, and we will continue refining them based on classroom feedback.
+
+We have initiated partnerships and active discussions with multiple schools and institutions, including Silver Oaks Schools, READ Foundation, and FDE, for pilot deployments of our labs, curriculum, and teacher training programs, with several partners expressing strong interest in adopting our system. These alliances will help validate our model, strengthen our institutional foundation, and support the continuous evolution and refinement of our implementation framework.
+
+As a spin-off of NUST, we have also advanced discussions with NUST regarding NUST-certified teacher training, which significantly strengthens our credibility and long-term differentiation.
+
+In parallel, we have operationalised our LMS-based teacher training platform, enabling scalable and continuous teacher professional development.
+These milestones validate both the demand for our solution and our ability to execute, implement, and scale our model effectively.","PKR 2,70,00,000/-",PKR 0/- [We are currently revamping our strategy and are not pursuing revenue until the transformation is complete.],"1. Access to Institutions and Corporations Interested in the Education Space
+NIC has partnered with many prominent institutions, such as Fauji Foundation, Jazz, PTCL, HBL, LMKT, Telenor, and other leading organisations across Pakistan. We hope to engage them in conversations regarding education and the need for our new type of pedagogical evolution, which has the potential to transform Pakistan’s education model. Through NIC and Ignite, we hope to become embedded and visible within Pakistan’s education and startup ecosystem.
+
+2. Development of business plan, marketing strategy and investor pitch
+We hope to leverage the incubation and ecosystem with its resources to create an investible business plan, marketing strategy and effective investor pitch. We will leverage the NIC program and ecosystem to help us refine our MVP and develop the attached vision presentation into a comprehensive and investible business strategy, which will position us as the first unicorn in the education space to address the gap and huge opportunity we have identified in Pakistan and similar markets. 
+
+3. Access to Angel Investors, Corporations, and Venture Capitalists
+ After refining our MVP, business plan and pitch, we hope that NIC will introduce us to potential angel investors, corporations, and venture capitalists interested in the education space. We understand that it is our responsibility to convince them, but we aim to build a highly investable and differentiated strategy during the incubation period. We would also like to work within the NIC ecosystem to connect with potential investors, including those associated with the Pakistan Startup Fund being launched through Ignite. We believe that startups like ours will help NIC attract such investors and VCs into their ecosystem. At the same time, we aim to leverage the relationships and alliances that NIC and Ignite have built over the years.
+",https://drive.google.com/open?id=1YLV6s_Q9juJ8MCIf9MHVseUQyKcFRX-I,https://drive.google.com/open?id=14mquPi837NncuG3wvx5I7im9I_qRDsD1,No,No,Other (Please Specify),I confirm and agree,,-,elementslearningeducation@gmail.com,Yes,Services. Recommended by Zulfiqar Qazilbash,Interview Done,Recomended to Final Round,A,Pitched,Invited to Join C5,NIC Contract Documents,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+19,Khurrum Ghori,AIgilityX,k.r.ghori@aigilityx.com,3208554000,Islamabad/Rawalpindi,www.linkedin.com/in/krghori,"Deep Tech (AI, Robotics, Cyber Security, IoT etc.)",Pre-revenue,Deep Tech Researcher,,,No (Solo Founder),,,"My unfair advantage is the combination of 25+ years of enterprise and public-sector transformation experience with a forward-looking AIgile™ (AI + Agile) execution mindset.
+
+I am not approaching AI from theory alone. I have led real-world initiatives across governments, telcos, enterprises, and academia—covering digital transformation, BPR, Agile delivery, and large-scale capability building. This gives me deep insight into where AI initiatives actually fail: the gap between strategy and execution.
+
+Through AIgilityX (USA & UAE), I am building a sovereign, enterprise-ready AI execution ecosystem, not just another AI tool. My strength lies in translating AI ambition into structured, scalable business outcomes.
+
+Simply put: I understand the technology, the enterprise, and how to operationalize AI at scale.",Yes,"AIgilityX builds a sovereign, enterprise-grade Agentic AI ecosystem that helps governments and large organizations securely adopt, operationalize, and scale AI. We combine AI infrastructure, digital twins, and AIgile™ execution frameworks to turn AI strategy into measurable business outcomes.","Most founders focus on AI tools and pilots; the real market demand—especially in government, telco, and regulated sectors—is for trusted, sovereign, and implementation-ready AI systems. In Pakistan and the GCC, buyers care deeply about data residency, governance, integration with legacy systems, and workforce readiness, not just model accuracy. AIgilityX is built around this enterprise reality.","Our advantage is deep enterprise transformation experience combined with a sovereign-first AI execution model. Importantly, we are not competing with infrastructure players like Jazz, e&, Core42, or Alibaba—we are designed to work with and on top of them, enabling governments and enterprises to operationalize AI securely.
+
+This partner-led positioning, along with our AIgile™ capability programs and domain-specific digital twins, creates strong strategic defensibility and long-term customer lock-in.","- Designed and finalized the AIgilityX sovereign Agentic AI Ecosystem Architecture
+- Developing  MVP-level use cases and working code prototypes
+- Structured the AIgilityX Flagship AI Fellowship program (curriculum, positioning, and go-to-market ready)
+
+Initiated ecosystem conversations with enterprise and regional stakeholders
+
+We are now entering the revenue activation phase, with the fellowship and advisory offerings expected to generate initial revenue in the next 90 days.",0,0,"Three Major Growth Challenges
+
+Enterprise & Government Market Access
+As AIgilityX targets regulated sectors, strategic introductions to government bodies, telcos, and large enterprises in Pakistan would significantly accelerate pilot deployments and early adoption.
+
+Strategic Partnerships & Local Ecosystem Integration
+Support in building partnerships with cloud, telecom, academia, and innovation ecosystem players would help strengthen our sovereign AI positioning and local execution capability.
+
+Investor Readiness & Early-Stage Capital Access
+Guidance on investor positioning, pitch refinement, and connections to relevant investors would help us accelerate productization, team expansion, and regional market entry.
+
+NIC Islamabad’s platform and network can meaningfully fast-track AIgilityX’s scale-up journey.",,https://drive.google.com/open?id=1s8scI1_kxDo2x3taRv4lTROqYFukXa6g,No,No,Other (Please Specify),I confirm and agree,,No,k.r.ghori@aigilityx.com,Yes,Services,Interview Done,Recomended to Final Round,A,Pitched,Invited to Join C5,CyberX C3G Platform - Cohort5 NIC Islamabad,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+20,Muhammad Atif,Digital Chotu,atif@chotu.digital,9.23366E+11,Islamabad/Rawalpindi,https://www.linkedin.com/in/muhammad-atif/,"Deep Tech (AI, Robotics, Cyber Security, IoT etc.)",Pre-revenue,Working Professional,,,Yes,"COO: Akif Irshad, CTO: Mohsin Nasir, CRO: Rohail Sidiquee","https://www.linkedin.com/in/akif-irshad-6a242818/, https://www.linkedin.com/in/rohailmehmood/","I am the right person to solve this because I combine the necessary skills, experience, and commitment.",Yes,We are solving last mile delivery problem using AI.,"Most founders in Pakistan build for apps and features, but the real market runs on voice, trust, and habit; not screens, filters, or dashboards.",,"MVP Readiness, Plus GTM",0,0,"Enterprise access
+Credibility
+Structured growth support",https://drive.google.com/open?id=1gJ7Dtg_TDVc7NxcP2L4FsWOpd9CAaPqx,https://drive.google.com/open?id=1yvMulOKWnsZ0FYt2ffTP-ndUX_CnpoLb,No,No,LinkedIn,I confirm and agree,,NA,atif@chotu.digital,Yes,Experienced Founder,Interview Done,Recomended to Final Round,B,Pitched,Invited to Join C5,Digital Chotu_Cohort5_NIC Islamabad,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+21,Idrees Zohrab,Yaar Chalo,Idreeszohrab47@gmail.com,9.23435E+11,Islamabad/Rawalpindi,hhttps://www.linkedin.com/company/yaarchalo/,Travel & Travel Tech,Scaling,Working Professional,,,No (Solo Founder),,,"My unfair advantage as a founder comes from combining tech skills with real travel experience. I graduated in Computer Science from FAST Islamabad, so I know how to build scalable, data-driven technology. At the same time, I’ve spent almost three years running trips, building communities, and understanding what travelers really want, what worries them, and what excites them.
+
+This gives me a perspective most founders don’t have: I see the problem on the ground and know how to solve it with technology. Many founders either have the tech skills but not the industry insight, or the industry experience but not the ability to scale — I have both.
+
+With this edge, I’m building a global AI-assisted travel platform that helps travelers through every step of their journey : from booking and planning, to translation, itineraries, and connecting with like-minded explorers.",Yes,"Yaar Chalo is a travel community that organizes curated adventure trips across Pakistan, bringing like-minded young travelers together to explore, connect, and create unforgettable experiences.
+Yaar Chalo is now evolving into an AI-assisted travel tech platform designed to help travelers across the globe plan smarter, travel better, and build meaningful travel communities.","Most founders in Pakistan look at travel as a pricing or logistics business. I’ve learned that it’s actually a trust and belonging business.
+
+Young people here don’t just book trips - they need to feel safe, understood, and part of something bigger. They don’t convert because of a fancy website; they convert because their friend went, because they saw real stories, because they felt included in a community.
+
+I’ve experienced firsthand that the real gap in this market isn’t demand ; it’s trust, consistency, and experience quality. Travelers want international-level organization, but they want it delivered in a way that understands Pakistani culture and realities.
+
+Yaar Chalo started by building that trust through community-led trips. Now, we’re evolving into an AI-assisted travel platform that can scale that same sense of safety, personalization, and belonging ; not just in Pakistan, but for travelers globally.","Our unfair advantage is that we are building a community-powered distribution and data moat-not just a travel company.
+
+If players like Jazz, Careem, or Alibaba enter the market, they can compete on pricing and scale - but not on trust, culture,deep understanding and belonging.
+
+Yaar Chalo is embedded within youth communities through campus ambassadors, repeat travelers, and WhatsApp-based networks. This creates organic distribution, lower CAC, and higher LTV driven by loyalty and referrals.
+
+At the same time, we are collecting proprietary behavioral data on how young travelers discover, decide, and convert. As we evolve into an AI-assisted travel platform, this data becomes our defensible moat - enabling personalization, demand prediction, and retention at scale.
+
+Capital can buy ads.It cannot instantly buy community trust and culturally contextual behavioral intelligence.With deep tech and industry knowledge, it makes the product launch and customer accquisition smooth and fast.","In the last 90 days, Yaar Chalo has:
+
+Built and activated a community of 500+ repeat travelers through curated trips and WhatsApp-based micro-communities.
+
+Launched campus ambassador programs across 10+ universities, driving organic awareness and trip conversions.
+
+Executed 4 high-demand off season trips to Malam Jabba and Arang Kel, refining operations, safety protocols, and content strategy.
+
+Created the foundation for an AI-assisted travel platform, capturing first-party behavioral data on travel discovery, decision-making, and conversion patterns.
+
+Produced scalable social content that grew engagement and visibility, positioning Yaar Chalo as a trusted youth travel brand.
+
+These achievements have validated both the community-led travel model and the potential to scale via technology-driven personalization.","~ PKR 45,000,000",PKR 7.7 Million,"1. Scaling Community-Led Acquisition
+Our growth relies on trust, peer influence, and campus networks & not just ads. NIC can help us design frameworks, mentorship, and partnerships to scale these community-led channels across Pakistan efficiently.
+
+2. Technology & AI Integration
+We are transitioning into an AI-assisted travel platform to personalize trips and predict demand. NIC’s access to tech mentors, infrastructure support, and AI expertise can accelerate product development and go-to-market readiness.
+
+3. Operational & Strategic Mentorship
+Managing logistics, safety, and repeat traveler engagement at scale is complex. NIC can provide guidance, best practices, and connections to industry experts that reduce operational friction and help us standardize a scalable travel ecosystem.",https://drive.google.com/open?id=1_Qba_I8uTExOvdlxbJrO7-fC_E-4uvfS,https://drive.google.com/open?id=1Nvb8JeqPo7xKCxmLBEWVs22AOJMwpe4p,No,No,Instagram,I confirm and agree,,Not Applicable,Yaarchaloyaar@gmail.com,Yes,Very good traction,Interview Done,Recomended to Final Round,B,Pitched,Invited to Join C5,YaarChalo_Cohort5_NIC Islamabad,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+22,Muhammad Abdul Majeed,VoxCommerce,hasnain1033@gmail.com,3472026955,Islamabad/Rawalpindi,www.linkedin.com/in/muhammad-abdul-majeed-304568195,"Deep Tech (AI, Robotics, Cyber Security, IoT etc.)",Pre-revenue,Deep Tech Researcher,,,Yes,"Abdul Wasay Ul Haq - Leads Voice Navigationh and Database architecture.
+Affan Ali Khan - Focused on Ad Deployment via Meta API","Abdul Wasay Ul Haq - https://www.linkedin.com/in/abdul-wasay-356b61380/
+Affan Ali Khan - https://www.linkedin.com/in/affan-ali-khan-497191287/","I have a 3+ years of professional experience in Digital Marketing, having managed over $ 10,00 worth of Ad spend. Any CS student can develop a solution for this problem, but being a CS student with professional experience of Digital Marketing, the edge I have is totally unique, the way I can solve the problem of running ads using AI, no one else can do!",Yes,"AI tool that automates meta ad campaign creation, optimisation, and management using a data-driven approach using basic natural language as input. ","The sheer scale of the advertising industry means it’s the only way to grow in today’s economy.  While those with a technical background might find running ads relatively easy, non-tech people often struggle with the Meta Ads dashboard.  Many founders lack the expertise and resort to hiring agencies or professionals.  Therefore, our goal should be for even a Kiryana store owner to be able to run ads and promote their business effortlessly. ","Our single biggest advantage is our proprietary models.  These have taken us a long time to perfect, including deciding on the right data and model framework.  Furthermore, our experience as digital marketing experts is easily replaceable.","Partnership: Codistan Ventures, a large-scale digital marketing agency, was one of the first companies to validate our idea. We’re currently partnering with them and they share their small daily problems with their ad expert, which we then try to solve.
+
+Model optimisation: We recently underwent a rigorous two-month development session optimising our model to reduce latency from 20ms to 5ms.
+
+LinkedIn outreach: We’ve been very active on LinkedIn, reaching out to industry professionals for feedback.
+
+Revenue: We’re currently pre-revenue but ran ads for a lab we’re working with as proof of concept and they performed brilliantly.
+
+Agreement: We’re on the verge of closing a deal with our university FAST to become their digital marketing partner. This will allow us to further validate our idea by running ads for the upcoming academic session entirely using AI.",0,0,"Idea Validation – The NIC will provide strong validation for our idea, serving as tangible proof of its potential. This recognition will open doors to opportunities and partnerships that may not have been possible before.
+
+Access to Experts – We will gain direct access to industry professionals and mentors who can guide us with practical insights on how to scale effectively and avoid common pitfalls.
+
+Securing Early Funding - We would definitely need money in order to get this thing of the ground, Thats where i think NIC can be of help!",https://drive.google.com/open?id=1gkmcol1W853_90L6IxAqo14MMdLkvEfp,https://drive.google.com/open?id=1CClW7R9RUYOIjkHQZLs_qvWKi3dcTUk9,No,No,Alumni Referral,I confirm and agree,,Not applicable,hasnain1033@gmail.com,Yes,,Interview Done,Recomended to Final Round,B,Pitched,Invited to Join C5,TezAds (VoxCommerce)_Cohort5_NIC Islamabad,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+23,Hafsa Tahir,Kahf,hafsatahir25@gmail.com,9.23343E+11,Karachi,https://www.linkedin.com/in/hafsatahir/,HealthTech,Pre-revenue,Working Professional,,,Yes,Umer Abdullah,https://www.linkedin.com/in/umer2abdullah/,"My academic background in Clinical Psychology, my exposure as an international sustainability leader who has represented Pakistan twice in the USA for her psychological first aid projects, proven impact as a content creator with a community of over 35,000 people, and my experience of 5+ years in organic growth. I am currently the Chief Marketing Officer of a leading AI-powered cybersecurity startup and have worked in organic growth teams at companies like DigitalOcean. I am the right person to solve this because I have the compassion it takes, the experience required to grow a startup, and a community that constantly offers feedback.",No,Kahf connects Muslims in the North American region with Islamic psychologists while also training psychologists around the world in Islamic Psychology.,"There are ~3.5 million Muslims in the U.S. and ~1.8 million in Canada. Studies show Muslims report higher rates of anxiety, depression, and discrimination-related stress, yet are significantly underrepresented in therapy utilization.
+
+Most founders assume this is a supply problem, that Muslims simply need more Muslim therapists. Through validation conversations, I learned the real gap is trust and alignment. Many diaspora Muslims disengage from therapy because they feel their faith, family structure, or religious coping is misunderstood.
+
+This market isn’t constrained by demand, it’s constrained by culturally aligned supply. When alignment increases, retention and willingness to pay increase.
+
+Secondly, I understand that the opportunity isn’t only in connecting clients to faith-aligned therapists, it’s also in expanding supply. There are over 100,000 licensed psychologists and therapists in the US alone, millions globally, yet very few receive structured training in faith-integrated or culturally competent Muslim care. Even Muslim Psychologists are not trained in Islamic care.
+
+Many therapists actively invest in continuing education to increase credibility and attract niche clientele. Certification programs in specialized therapy modalities often range from $500 to $3,000. By offering structured Islamic psychology training and certification, Kahf can both strengthen quality control and unlock a parallel B2B revenue stream while increasing aligned supply.","The US therapy market exceeds $35B annually, but faith-aligned Muslim care remains fragmented. Kahf’s advantage is early brand positioning in a defined, identity-driven niche with high lifetime value.
+
+Therapy businesses are retention-driven - a single client attending weekly sessions at $120–$180 per session can generate $6,000–$9,000 annually. In trust-sensitive markets, alignment directly increases retention and referral velocity.
+
+A large incumbent can replicate features, but they cannot instantly manufacture credibility within religious communities, especially those of South Asian backgrounds. In this segment, trust drives LTV and LTV drives defensibility.","• Conducted 20 validation interviews with North American Muslims to assess therapy gaps and pricing sensitivity.
+• Spoke with 8 therapists; 5 expressed interest in joining at launch.
+• Designed and finalized the therapist–client matching framework, including criteria for faith alignment, therapy modality, language, gender preference, and cultural background.
+• Defined faith-aligned vetting framework and certification roadmap.
+• Studied different regulations across North America
+• Conducted organic growth and content engine research to attract audiences
+",0,0,"1. Monetization, Legal & Cross-Border Structuring
+Kahf targets North America while operating from Pakistan. I need support in structuring a scalable revenue model (commission, subscription, certification), implementing cross-border payment systems, and ensuring regulatory compliance, therapist credentialing alignment, and financial structuring for responsible global scaling.
+
+2. Fundraising Strategy & Leadership Mentorship
+As an early-stage healthtech founder, mentorship in investor readiness, financial modeling, and long-term scaling strategy would significantly strengthen Kahf’s trajectory and ability to attract aligned capital.
+
+3. Positioning Kahf as a Pakistan-Built, Women-Led Export Product
+As a woman founder building a faith-sensitive mental health platform, I am operating in a highly trust-driven and culturally nuanced space. Support in positioning Kahf as a globally compliant, Pakistan-built digital health export would strengthen credibility, international perception, and long-term scalability.
+",,https://drive.google.com/open?id=1NY_9wdPX_Kbi2VTZiDKyLbBXUwqUlGiT,No,Yes,Other (Please Specify),I confirm and agree,,N/A,hafsatahir25@gmail.com,Yes,Experienced Founder,Interview Done,Recomended to Final Round,A,Pitched,Invited to Join C5,Kahf_Cohort 5_NIC Islamabad,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+24,Muhammad Astafa Ali,Finova Solutions,ceo@finovasolutions.tech,9.23343E+11,Islamabad/Rawalpindi,https://www.linkedin.com/company/finovasolutions,"Deep Tech (AI, Robotics, Cyber Security, IoT etc.)",Early revenue,Student,,,No (Solo Founder),,,"There is never lack of talent only lack of grit and execution, Being an entrepreneur for 4 years I have learned there is no ""right person"" to solve a problem, those passionate and dedicated can solve any problem or learn to solve them along the way. In the past 4 years i have learned that I am not a know it all. No matter how much I learn I can never be the best or the right person for something. In my belief there is no ceiling to what you can learn when you're a founder. I may or may not be the right person right now but I will be some day that i know for sure.  ",Yes,"Our startup solves problems, we don't build systems for show we build systems that help businesses solve actual problems they face. Ai wasn't built to replace humans it was built to help them reach new heights. ","Most founders in Pakistan build AI as a feature. People don't want features they want convenience and problem solving products, enterprises don't care about feature they care about reliability, integration and ROI. 
+
+The local market is highly price-sensitive but extremely relationship-driven. Succeeding here requires compliance awareness, deep integration into existing systems, and long-term support, not just a polished demo. ","Large incumbents like Jazz, Careem etc focus on scale and build standardized or one size fits all solutions. By deeply understanding customer processes and building AI that becomes part of the company’s process instead of a separate tool, we create solutions that become mission-critical and provide value that is hard to switch from. Our unfair competitive advantage is that we provide personalized solutions and keep customer experience as our top priority. ","Successfully Completed Milestone 3 on an ongoing project with Telecom Foundation, a subsidiary of  the Ministry of IT.
+
+Partnered with Sirius Solutions Global for a pilot of our product Awaaz (Conversational AI)
+
+Became a pre-qualified vendor for Easypaisa and currently participating in their RFP
+
+Successfully completed the development of a social forum application (KOBI PAL) similar to X for an African Company by the name of KOBIPY. QA underway.   ","2,628,500","1,348,500","Our main growth challenges are access to the right network, strong mentorship, and ecosystem resources. We need connections with decision makers, investors, and corporate partners to scale faster. We also need experienced mentors who can guide us in strategy, fundraising, and enterprise sales and most importantly teach me to be a better entrepreneur. Access to shared resources and ecosystem support will help us grow more efficiently and build stronger market credibility.",https://drive.google.com/open?id=196UqtWe3-GeKLPtNClMuArhsEGJuhMf9,https://drive.google.com/open?id=1b3S2hVk6wy44zKprs1s2o3Gdkzsvr3eL,No,No,Alumni Referral,I confirm and agree,,No incubation for Finova solutions,ceo@finovasolutions.tech,Yes,Same as Najoomi Experia,Interview Done,Recomended to Final Round,B,Pitched,Invited to Join C5,Finova Solutions_Cohort5_NIC Islamabad,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+25,Imtiaz Rastgar,AirAudit,irastgar@gmail.com,3335142345,Islamabad/Rawalpindi,www.airaudit.com.pk,Climate / Greentech,Scaling,Second-time Founder,Tech company ,Export Tech System Autoparts ,Yes,Maqsood Zulfqar ,"https://www.linkedin.com/in/maqsood-zulfqar-76936912?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+",Experience ,No,"Assess energy waste in manufacturing facilities, provide analysis, suggest corrective actions, leading to savings in energy, help in carbon credits, SDGs, mandatory compliance and reporting plus. ","Deep understanding of manufacturing processes, compressed air energy production/utilisation, waste, monitoring which not taught in most universities around the globe. ","We have a plan to put feet on the ground, on a manufacturing plant anywhere on the earth, monitor and collect data, compile reports, advise each client individually. We don’t know of any company able to do this, so far. ",99,99,999,"Find partner, help scale up, to global level",https://drive.google.com/open?id=1OmTqA0pRiv8NYw1H5ep0czItWkS35qEw,https://drive.google.com/open?id=1fZZEIoMgFawO6Pu7T7GPPtAycqaAngAo,No,No,Other (Please Specify),I confirm and agree,,No,irastgar@gmail.com,Yes,Big Yes. Masud Sb to interview Rastgar Sb,Interview Done,Recomended to Final Round,A,Pitched,Invited to Join C5, AirAudit_Cohort5_NIC Islamabaded folder,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE
+26,ALINA ISLAM,Better You Co,alinaislam610@gmail.com,3015368686,Islamabad/Rawalpindi,https://www.linkedin.com/in/alina-i-170232252/,HealthTech,Early revenue,Working Professional,,,Yes,Jalal Ahmed - certified fitness trainer,,"My unfair founder advantage lies in the intersection of systems thinking, validated market traction, and a performance-focused positioning within a fragmented health ecosystem.
+
+I am trained in structured analysis, operational efficiency, and financial modeling. I apply this systems-based thinking to health transformation, treating fitness and nutrition not as generic advice, but as measurable, process-driven outcomes. This allows Better You Co to move beyond coaching and toward scalable, standardized health optimization frameworks.
+
+I have already validated demand through direct-to-consumer paid acquisition, generating 80+ qualified strategy calls and converting paying clients without institutional support or brand backing. This demonstrates early proof of demand, conversion capability, and execution speed.
+
+More importantly, I understand a key market inefficiency: professionals and diet patients struggle to find structured, accountable, and integrated health guidance while qualified nutritionists and trainers struggle with client acquisition and retention. Better You Co bridges this gap by building a tech-enabled ecosystem that connects patients with certified professionals inside a structured accountability framework (app + Skool community).
+
+My advantage is not simply industry knowledge, it is execution velocity, niche positioning toward high-performance professionals, and the ability to design scalable systems rather than isolated coaching services.",Yes,Better You Co is a health-tech platform that connects diet patients and working professionals with certified nutritionists and structured performance programs through an integrated app and accountability community.,"Pakistan’s rising upper-middle-class professionals are experiencing increasing metabolic health issues due to sedentary work culture and poor food environments. Yet, the health industry remains informal, unstandardized, and trust-deficient.
+
+Most founders chase mass-market diet apps.
+
+We understand that:
+Premium professionals will pay for structured, outcome-driven systems — not generic advice.
+
+That positioning allows for:
+• Higher LTV
+• Better retention
+• Premium pricing
+• Scalable digital accountability","Our competitive advantage is not capital — it is structural positioning, vertical focus, and behavioral architecture.
+
+Large incumbents like Jazz or Careem operate horizontal marketplaces optimized for scale and transaction volume. Health transformation, however, is not a transaction problem — it is a behavioral change problem requiring structured accountability and niche trust.
+
+Better You Co is building:
+
+1) A vertically integrated performance system
+Not just expert listings — but structured discipline protocols, measurable tracking frameworks, and embedded accountability loops designed specifically for working professionals.
+
+2) A curated expert network
+We are not onboarding anyone with a certificate. We are building a performance-standardized expert layer trained inside our system. This creates process lock-in and quality consistency that large generic platforms cannot replicate quickly.
+
+3) A high-LTV niche positioning
+We focus on professionals willing to pay premium for measurable outcomes. This reduces CAC volatility and increases retention. Large incumbents optimize for mass adoption, not premium discipline-driven ecosystems.
+
+4) Community-based identity lock-in
+Our Skool-based ecosystem builds identity reinforcement and peer accountability. Once users integrate socially and structurally into the system, churn drops significantly. Big platforms struggle to create intimate identity-driven communities.
+
+In short:
+
+A large incumbent can replicate an app.
+They cannot quickly replicate:
+• Trust architecture
+• Behavioral accountability systems
+• Niche authority positioning
+• Curated transformation frameworks
+
+Our moat is not technology.
+It is structured execution + vertical trust.","In the last 90 days, Better You Co has:
+
+• Generated $5,000+ in direct revenue through paid digital acquisition
+• Conducted 80+ qualified strategy calls
+• Closed multiple paying clients through a structured 12-week transformation system
+• Built and documented 40 case studies across body recomposition, fat loss, and structured discipline transformations
+• Validated paid demand without external funding or brand authority
+• Proven our ability to convert cold traffic into paying users
+
+Most importantly, we validated three critical things:
+
+1) There is real willingness to pay for structured accountability-based transformation.
+2) Paid acquisition can generate qualified leads consistently.
+3) Our system delivers measurable outcomes, as demonstrated by 40 documented transformations.
+
+All of this was achieved bootstrapped, without a technical platform, proving strong execution capability and early product-market validation.","PKR 1,200,000/-","PKR 100,000/-","1) Technology Development & Product Structuring
+
+While we have validated revenue and transformation outcomes through a service-based model, our next phase requires building a scalable health-tech platform (mobile app + structured accountability system).
+
+We need support in:
+• Technical architecture design
+• Product roadmap structuring
+• UI/UX refinement
+• Building a secure and scalable expert-patient matching system
+
+NIC’s technical mentorship and network access can accelerate our transition from service execution to platform scalability.
+
+2) Strategic Market Positioning & Brand Scaling
+
+We have validated paid acquisition and conversion at an early stage. However, transitioning from a coaching-led model to a nationally scalable health-tech brand requires:
+
+• Refined go-to-market strategy
+• High-level branding support
+• PR exposure
+• Corporate partnerships
+
+NIC’s ecosystem can help us access strategic partnerships and establish credibility in the professional health-tech space.
+
+3) Network Access to Investors & Institutional Partnerships
+
+As we evolve into a structured health ecosystem, we will require:
+
+• Early-stage funding
+• Access to health-sector advisors
+• Connections with certified nutrition bodies
+• Corporate wellness partnerships
+
+NIC Islamabad’s investor network and corporate connections can significantly reduce the time required to secure strategic capital and partnerships.",https://drive.google.com/open?id=1VXuWoXoLoxPE1q4vEnKWsk2Fc5T537yW,https://drive.google.com/open?id=1sATCzvtVhmDslnVX4sB5RtpcQLHKwEDB,No,Yes,LinkedIn,I confirm and agree,,no,alinaislam610@gmail.com,Yes,,Interview Done,Recomended to Final Round,A,Pitched,Invited to Join C5,https://1drv.ms/f/c/0f75817ec80d62bd/IgApJzrvM_sLRq33XNHNsmOYAY9ZnocLOj_hOit54WuFBNk?e=MZjcQd,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+27,Shoaib Hayat,Digital Code,ceo@digitalcode.dev,9.23336E+11,Islamabad/Rawalpindi,https://www.linkedin.com/in/iamshoaibhayat,FinTech,Scaling,Deep Tech Researcher,,,No (Solo Founder),,,"I bring a rare combination of deep technical expertise, entrepreneurial execution, and real market access. As the founder and CEO of a software and blockchain company with a multi-disciplinary team, I have already built and deployed production-level systems across AI, fintech, and automation domains. My background as a software engineer with years of hands-on development experience allows me to move from idea to working product rapidly without heavy dependency on external vendors. Additionally, my exposure to international markets (UAE, Pakistan, and global clients) provides strong insight into customer needs, commercialization strategies, and scalable business models. I am not only capable of building the technology but also positioning it for adoption and revenue, which significantly reduces execution risk compared to typical early-stage founders.
+Beyond skills, I have a strong execution mindset, I consistently convert concepts into operational products, teams, and revenue streams. This combination of technical depth, leadership, and market understanding creates a meaningful competitive advantage that positions me uniquely to solve this problem successfully.",Yes,"We build AI-powered automation agents that help businesses capture leads, engage customers, and convert sales across websites, WhatsApp, and social media from a single intelligent platform. Our technology replaces fragmented tools with an integrated AI workforce that operates 24/7 to increase revenue and operational efficiency.","Most founders focus only on local pricing sensitivity, but the real opportunity is building globally competitive SaaS products from Pakistan while leveraging the country’s cost advantage in engineering talent. Businesses in emerging markets are rapidly adopting AI automation but lack affordable, easy-to-deploy solutions tailored to their workflows, especially across messaging platforms like WhatsApp and social channels. I understand that success in this market comes from combining global-standard product quality with localized integrations, strong onboarding, and clear ROI for SMEs not just technology alone.4","Our advantage comes from execution speed, vertical specialization, and proprietary workflow intelligence. Unlike large incumbents that build broad platforms, we focus deeply on solving specific business automation problems with customizable AI agents that integrate directly into customer operations. We also accumulate unique datasets from user interactions, automation workflows, and conversion patterns, which continuously improve our AI models and create a data moat over time.
+Additionally, our lean engineering structure allows us to innovate and deploy features significantly faster than large corporations with heavy bureaucracy. We build strong customer relationships through onboarding, customization, and measurable ROI, making switching costs high. Even if a large player enters, they would face challenges replicating our domain-specific automation intelligence, customer trust, and rapid iteration capability.","In the last 90 days, we have successfully delivered multiple technology solutions, including customized ERP and CRM implementations for business clients, along with SaaS-based systems such as Fleet Management and other enterprise automation tools. These deployments have strengthened our technical expertise, generated revenue, and expanded our client network across different industries.
+We have also initiated an Odoo partnership to provide customized ERP and CRM solutions to customers, enabling us to leverage a globally recognized platform while delivering localized implementations and integrations tailored to business needs. This partnership positions us to scale enterprise software adoption more efficiently in the SME market.
+In parallel, we have started the development of our AI Agent SaaS platform focused on intelligent business automation across communication channels (web, WhatsApp, and social media). The product architecture and early development are underway, with a clear roadmap to launch a functional MVP within the next six months. Our existing customer base and implementation experience will serve as early adopters once the MVP is released.
+",100million ,9million,"1. Market Access and Enterprise Customer Acquisition
+2. Product Positioning, Scaling Strategy, and Investment Readiness
+3. Strategic Partnerships and Technology Ecosystem Integration",,,No,No,LinkedIn,I confirm and agree,,Not Applicable ,shoaib.devpy@outlook.com,Yes,Recommended for Incubation,Interview Done,Recomended to Final Round,C,Pitched,Invited to Join C5,FitChainAi_Cohort5_NIC Islamabad,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+28,Syed Zaid ul Haq Jeelani,Hakeem AI,zaid.haq123@gmail.com,9.23056E+11,Islamabad/Rawalpindi,https://www.linkedin.com/in/syed-zaid-ul-haq-jeelani/,HealthTech,Pre-revenue,Working Professional,,,Yes,"1. Chaudhry Ahmad Zafar, Chief Operational Officer
+2. Talha Hameed, Chief Technical Officer","1. Chaudhry Ahmad Zafar - https://www.linkedin.com/in/chahamadzafar-cloudcompuitng-aws-founder-publicspeaker/
+2. Talha Hameed - https://www.linkedin.com/in/talha-hameed/","I was the Program Manager for a voice AI agent product with speech-to-text transcription and agentic action-taking for hotel kiosks at Cowlar (YC W17) - skill directly transferable to ambient clinical documentation. Also led end-to-end product delivery for clients across Pakistan and Qatar, including on-site deployment in Qatar for Cowlar's eCommerce solution to Al Meera, Qatar's largest national retailer. Come from a family of doctors - specialists, clinic owners, and hospital administrators - giving me firsthand access to the healthcare ecosystem and real clinical workflows. One co-founder is based in Saudi Arabia covering our expansion market, another has operational connections in Pakistan. We're not learning how to build voice AI or ship products - we've already done both, and we have the domain access most tech founders don't.",Yes,"We're building an AI-powered mobile app that listens to doctor-patient conversations in Urdu and regional languages, and automatically generates structured clinical notes, saving doctors 1-2 hours of paperwork daily. Patients receive a voice summary of their visit on WhatsApp in their own language.","Most founders in this space think the challenge is building better technology than Western AI scribes. It's not - the real competition in Pakistan is paper and pens. The 95%+ of doctors still on paper aren't waiting for a better product; they need a reason to go digital at all. The unlock is that you don't ask doctors to change how they work. You let them keep talking to patients as they always have, and the AI handles the part they hate. That zero-friction entry point, combined with regional language support no global player will ever build, is what makes this work here first.","Every consultation we process builds a proprietary dataset of Urdu and regional-language medical transcriptions paired with structured clinical notes. This dataset doesn't exist anywhere, and a new entrant starts from zero regardless of funding. Large incumbents optimize for markets with high Average Revenue per User (ARPU) - serving individual Pakistani clinics at 3-5k PKR/month is unattractive unit economics for a player like Jazz or Careem, which is exactly why this market is still unserved. Furthermore once a doctor's patient records and daily workflow live in our system, switching costs are high. Healthcare trust is earned, it can not be bought with a marketing budget.","I'm applying to NIC at the transition point from planning to building. Till now I've done a competitive and market analysis across the global AI scribe landscape and Pakistan/ME healthcare markets. I've assembled a 3-person co-founding team - one based in Saudi Arabia (expansion market), and one with operational connections for pilot access. I have access to clinics through my direct family network. I also have built directly relevant technical experience at Cowlar, where I worked on a voice AI agent with STT (speech to text) transcription and agentic action-taking.",0,0,"1. Healthcare ecosystem access beyond our personal network - We can reach a few pilot clinics through co-founder and family connections, but scaling to 50+ clinics and hospitals requires introductions to medical associations, hospital administrators, and health policy stakeholders that NIC's mentor and partner network can open.
+2. Regulatory and compliance guidance — Pakistan lacks a clear digital health data framework, and our Middle East expansion requires relevant legal compliance (such as MOHAP in UAE). We need mentorship from people who've navigated healthcare regulation in both markets.
+3. Investor pipeline for seed fundraising - We're bootstrapped with runway, but within 12 months we'll need seed capital to fund Middle East expansion. NIC's investor network and exposure is the most efficient path to relevant angels and early-stage VCs in Pakistan.",https://drive.google.com/open?id=1NP9vX_xnU7JY9csyxhClrDnzgy9mv2SP,https://drive.google.com/open?id=1ZsDAX5ZL2mh_7EBlfLdh_b2zD6s2j7_2,No,No,LinkedIn,I confirm and agree,,No,zaid.haq123@gmail.com,Yes,,Interview Done,Recomended to Final Round,C,Pitched,Invited to Join C5,HakeemAI_Cohort5_NIC Islamabad,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+29,Tanveer Jalal,Proptiv,t.jalal@gmail.com,9.23006E+11,Islamabad/Rawalpindi,https://www.linkedin.com/company/proptiv/,PropTech,Pre-revenue,Working Professional,,,No (Solo Founder),,,"My unfair advantage lies at the intersection of deep IT expertise and hands-on real estate execution. I’ve worked across multiple real estate verticals from the ground up and have personally led the development of multiple applications and web platforms tailored to real estate workflows.
+
+Unlike founders who either understand tech or real estate, I understand both operationally and technically. This allows me to identify real bottlenecks in sales, inventory, and lead management, and rapidly translate them into practical product solutions through Proptiv. I don’t just define the vision; I have the technical and domain capability to build, iterate, and scale it efficiently.
+",No,"It replaces expensive, outdated software with a modern, always-on SaaS solution designed to streamline operations and improve visibility across real estate projects.","Pakistan’s real estate sector does not primarily struggle with demand — it struggles with process inefficiency, lack of transparency, and fragmented operations. Most developers and agencies still run multi-million-rupee projects on spreadsheets, WhatsApp, and manual reconciliation, which creates leakage in leads, commissions, inventory visibility, and cash flow tracking.
+
+What many founders miss is that this market doesn’t just need “software”, it needs localized, trust-driven, workflow-aligned solutions built around how Pakistani developers, sales teams, and dealers actually operate. Technology adoption here is behavior-driven, relationship-driven, and highly price-sensitive. Building for this market requires deep operational understanding, not just technical capability.
+","Our defensibility lies in deep domain integration, not just software. Proptiv is built specifically around the operational realities of Pakistani real estate inventory structuring, installment flows, dealer commissions, and sales workflows which generic tech entrants would struggle to replicate quickly.
+
+If a well-funded incumbent enters, they may bring capital and brand, but they won’t have our workflow depth",Technology Upgrade,0,0,"1. Go to Market
+2. Product Scaling
+3. Securing angel investment",https://drive.google.com/open?id=1wG12J7p4rvcsEJb0DGfzn3yNM2ZjHmmE,https://drive.google.com/open?id=1YGdMznsC01ALYVjU_KMUiYRZ5Bx7BFLH,No,No,LinkedIn,I confirm and agree,,Not Applicable,t.jalal@gmail.com,Yes,Mature Founder,Interview Done,Recomended to Final Round,B,Pitched,Invited to Join C5,PROPTIV_Cohort5_NIC Islamabad,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+30,Ahsan Rasheed Khan,Rightmetrics Health,ahsan.rasheed@rightmetrics.com,9.23002E+11,Islamabad/Rawalpindi,https://www.linkedin.com/in/ahsan-rasheed-khan/,HealthTech,Pre-revenue,Working Professional,,,Yes,"Dr.Sajid Latif (MD) - Co-founder & Clinician, Ejaz Khan (CTO) Technology ","https://www.linkedin.com/in/sajid-khan-md-1b5a0b141/, https://www.linkedin.com/in/ejaz-k-b98579/","Extensive enterprise Industry experience, 1) proven enterprise execution (2) real clinical delivery (3) Pakistan-market distribution, all in one founder.",No,"RightMetrics builds a digital health platform that combines telehealth and remote patient monitoring so patients can track key vitals at home and connect with clinicians when needed. It helps care teams spot risks early, intervene faster, and improve outcomes for chronic and high-risk patients.","Pakistan’s healthcare “market” isn’t one buyer it’s a risk-transfer ecosystem, and adoption only happens when you align incentives across four payers: employers, insurers/TPAs, hospitals, and government programs. Most founders sell to doctors or hospitals as if it’s a pure software purchase, but the real wedge is proving measurable cost savings (avoidable admissions, shorter LOS, fewer complications) and then packaging that into a per-member/per-month service that insurers/employers can underwrite while hospitals earn through capacity release and better follow-ups.
+
+I also understand the constraint most people underestimate: care delivery is fragmented and trust-based, so workflows must work offline/low-bandwidth, fit WhatsApp-era user behaviour, and be implementable with nurses/LHWs not just specialists while still meeting enterprise procurement, data hosting, and clinical governance requirements that large buyers (telcos, banks, provincial health, and DFIs) will demand.","Our unfair advantage isn’t “we have an app.” It’s that we’ve already done the hard, slow, clinical and operational work that big incumbents usually underestimate and we’ve packaged it into deployable products. 1) Clinical-grade workflow + outcomes moat (not a consumer UX moat)
+
+Rightmetrics Healthcare is built around care pathways that change outcomes (diabetes/CVD, hypertension, high-risk monitoring), not just discovery, chat, or logistics.
+
+We bring a clinically validated operating model (remote monitoring + escalation + clinician dashboards + adherence loops) and a proven results narrative that hospitals, payers, and regulators actually trust. That trust is hard to buy quickly.
+
+2) “Switching costs” embedded in hospital operations
+Once we’re live, we’re not a replaceable vendor:
+
+We integrate into clinical routines (triage thresholds, alerts, escalation ladders, chronic care check-ins, provider workflows).
+
+We create longitudinal patient records + RPM trends + adherence history that clinicians rely on to make decisions.
+
+We train teams and set SOPs so replacing us means re-training staff, re-validating protocols, and risking patient safety/compliance.
+
+3) Device + data integration layer that incumbents don’t have day one
+
+We’re device-agnostic and already designed to ingest vitals and stream them into actionable workflows.","pilots discussion with telcos & Global NGOs, GSMA partnership exploration, exploring partnership with local insurance provider ",1 million ,0,"1) partnerships with ecosystem players like govt health dept, insurance, telecoms, 2) open doors for pilots with hospitals/clinics local and international 3) funding for scaling across Pakistan and internationally, ",https://drive.google.com/open?id=1aB8Ls8RKwYkyUr-SVfXvFrtXEXdcf6IA,https://drive.google.com/open?id=1wF97kyduZ7_WKnM0_-1vifDNiZ39QLae,No,No,Alumni Referral,I confirm and agree,,na,ahsan.rasheed@rightmetrics.com,Yes,Experienced Founder - Director at Oracle,Interview Done,Recomended to Final Round,A,Pitched,Invited to Join C5,Rightmetrics Health_Cohort5_NIC Islamabad,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+31,Imran Rasheed,Isoft,imran.rasheed@i-soft.uk,9.23338E+11,Islamabad/Rawalpindi,https://www.linkedin.com/in/imranciso/,EdTech,Pre-revenue,Working Professional,,,No (Solo Founder),,,"Most AI EdTech startups are just wrappers around ChatGPT. ApexBeat is not.
+
+My unfair advantage is that I’m not a content founder experimenting with AI — I’m a 20+ year enterprise AI and cybersecurity architect building a structured medical intelligence system from the ground up.
+
+I understand how to design scalable AI infrastructure, control token economics, secure sensitive data, and build defensible SaaS platforms. That dramatically lowers execution risk.
+
+While others are prompting LLMs, we’re engineering structured learning architecture aligned with medical curricula and performance tracking.
+
+I’ve built and scaled multiple tech ventures before, operate internationally, and bring both technical depth and execution discipline. I’m building ApexBeat as infrastructure — not a feature.
+
+That difference compounds over time.",Yes,"ApexBeat.ai is an AI-powered medical learning platform that helps medical students study smarter through structured summaries, adaptive quizzes, mind maps, and performance tracking aligned with their curriculum. It transforms complex medical content into personalized, exam-focused learning pathways.","Most founders in Pakistan see medical education as a content business; I see it as a structured performance and outcomes market.
+
+The real opportunity is not selling notes or MCQs , it’s solving cognitive overload, exam anxiety, and lack of personalized feedback for 100,000+ medical students navigating rigid curricula like PMDC/UHS. Generic AI tools fail because they are not curriculum-aligned, exam-mapped, or performance-tracked.
+
+Additionally, Pakistan is a price-sensitive but aspiration-heavy market — students are willing to pay for tools that directly improve exam scores, international licensing outcomes (PLAB/USMLE), and career mobility. The winner will not be the biggest content provider, but the platform that combines AI structure, academic alignment, and measurable performance improvement.
+
+That structural insight  not just AI adoption  is what most founders miss.","Our unfair competitive advantage is structured academic alignment combined with proprietary AI learning architecture, not just content or generic LLM integration.
+
+Large incumbents can deploy capital and marketing quickly  but they cannot easily replicate:
+
+Curriculum-mapped learning intelligence aligned with PMDC/UHS standards and exam patterns.
+
+A structured AI engine built around performance tracking, adaptive progression, and medical exam logic  not just prompt-based summaries.
+
+Early trust-building within the medical student community through doctor validation and academic alignment.
+
+Focused niche execution  we are obsessively solving one high-stakes problem: helping medical students improve measurable outcomes.
+
+Telecom or super-app incumbents typically build horizontal platforms; medical education is a vertical, credibility-driven market that requires domain precision and academic trust.
+
+Our defensibility comes from:
+
+Structured learning data over time
+
+Student performance datasets
+
+Academic integrations
+
+Iterative model refinement specific to medical education
+
+ApexBeat is being built as infrastructure for medical learning not as a feature inside a broader app.
+
+That specialization creates long-term defensibility against capital-heavy but unfocused entrants.","In the last 90 days, we have moved ApexBeat from concept validation to structured execution:
+
+• Completed core MVP architecture, including AI-powered summaries, adaptive MCQs, structured mind maps, and personalized performance tracking.
+• Built and tested curriculum-aligned content modules for MBBS students following PMDC/UHS guidelines.
+• Onboarded medical professionals for academic validation and content refinement.
+• Conducted early-stage student demos and feedback sessions to refine UX and learning flow.
+• Developed pricing model and subscription framework with 15-day trial structure.
+• Established initial go-to-market groundwork, including university outreach conversations and event planning.
+
+Most importantly, we transitioned from “AI tool idea” to a working, structured medical learning engine with defined monetization and curriculum alignment.
+
+Execution speed and technical build progress over the past 90 days significantly reduced product and technical risk.",0,0,"1. Institutional Access & University Partnerships
+We need structured introductions to public and private medical universities (PMDC/UHS-aligned institutions) for pilot programs, official endorsements, and campus adoption. NIC’s network and credibility can accelerate institutional entry that would otherwise take 12–18 months to build independently.
+
+2. Structured Fundraising & Investor Readiness
+As we scale from MVP to growth stage, we require support in refining our data room, financial model, and investor positioning to secure seed funding. NIC’s investor network and mentorship can help us move from early traction to institutional capital.
+
+3. Scalable Go-To-Market Strategy
+We need support in building a high-efficiency campus ambassador model, performance marketing strategy, and B2B2C distribution channels. NIC’s ecosystem can help us design repeatable acquisition frameworks instead of relying on ad-hoc outreach.
+
+These three areas directly impact our ability to scale ApexBeat nationally and position it as a global AI medical learning platform.",https://drive.google.com/open?id=1KtysOitOzN9t9JdfjKjtvYGI8018K5de,https://drive.google.com/open?id=17WQP_p0PKmMCV17K3o96d9NbO3aMyM1l,No,No,LinkedIn,I confirm and agree,,NO,aaddaab@gmail.com,Yes,Experienced Founder based in Machester UK,Interview Done,Recomended to Final Round,A,Pitched,Invited to Join C5,Final ,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+32,Sheryar Kayani,Clara AI,sheryarkayani70@gmail.com,3392081234,Islamabad/Rawalpindi,https://www.linkedin.com/in/sheryar-kayani/,"Deep Tech (AI, Robotics, Cyber Security, IoT etc.)",Early revenue,Student,,,Yes,Adul Faheem Cofounder,https://www.linkedin.com/in/abdul-faheem-111a0b1b9/,"I built a podcast interviewing restaurant owners, then built the product they told me they needed. 5+ restaurants.. $2.5K MRR. My advantage isn't expertise — it's that I learn directly from the operators, then ship fast.",Yes,"Clara is an AI voice receptionist that answers calls, books reservations, and captures customer data for restaurants 24/7 -so they never lose revenue to a missed call again.","Restaurant owners don't buy technology — they buy solutions to immediate pain they can feel in dollars. Most Pakistani founders pitch features; I pitch recovered revenue. I learned this by interviewing dozens of restaurant operators through my podcast and discovered that a missed call during dinner rush isn't an inconvenience — it's $120 walking out the door. That insight changes everything about how you sell, price, and build.","They'd build a generic product for a market they don't understand. My advantage is the operator relationships I've built through 5+ restaurant customers and a hospitality podcast — owners trust me because I've learned from them, not lectured them. That trust is a distribution moat. A well-funded incumbent can copy the technology in months, but they can't copy the fact that restaurant owners already refer Clara to each other, take my calls, and tell me what to build next.",revenue,25 lacs,7.5 lacs,"1. Hiring and building a local team
+I'm a solo technical founder. I need mentorship on when and how to make my first hires — sales, customer success, and ops — specifically in the Pakistani context where talent acquisition works differently.
+2. Fundraising and investor access
+Clara is bootstrapped and profitable, but scaling to 100+ restaurants in 2026 requires capital. I have no experience raising from Pakistani or regional investors and need guidance on how to structure and pitch a round to the right people.  3. Legal, compliance, and business structure
+Operating across US and Australia creates complexity around entity structure, contracts, and data privacy compliance. NIC's legal resources and advisor network would help me set this up correctly before we scale.",https://drive.google.com/open?id=1Sh3WoWheNvwSl6jbkTU0xoEOBMAHinKe,https://drive.google.com/open?id=1IIpPFe_7O8Pj1ewWjGJtAA1baXv5ne35,No,No,Instagram,I confirm and agree,,No,sheryarkayani70@gmail.com,Yes,Looks very promising,Interview Done,Recomended to Final Round,A,Pitched,Invited to Join C5,ClaraAI_Cohort5_NIC Islamabad,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+,Muhammad Awais,Editute,mostwantedawais@gmail.com,9.23263E+11,Islamabad/Rawalpindi,https://www.linkedin.com/in/muhammad-awais-khan-29a178294/,EdTech,Scaling,Student,,,Yes,"Muhammad Sarmad (CMO), Muhammad Abdullah (CTO)","https://www.linkedin.com/in/msarmadktk?utm_source=share_via&utm_content=profile&utm_medium=member_ios, https://www.linkedin.com/in/muhammad-abdullah-129a42278/","We have a first movers advantage and are already on scaling, proving that we can make this idea work and grow. ",Yes,Editute is an edtech platform focusing on online examination and digital education for students. ,We understand that this platform can succeed if implemented accross various institutions using white labling. ,Our unfair competitive advantage is the B2B customer loyalty and platform switching friction. Institutions focus less on switching the vendor if locked in once.  ,"We have achieved around 200,000 in operating revenue within the last 90 days. ","500,000","200,000",We need an open space to focus and develope easily which we currently lack. We need experience and guidance from other founders.,https://drive.google.com/open?id=1yi1sqTYQujXQwvOBpmb8qG2SSl8Ofh4D,https://drive.google.com/open?id=14CbLI33yiCA24sQdyqWWLIvDBApdEuSu,No,No,Instagram,I confirm and agree,,No,mostwantedawais@gmail.com,Yes,,Interview Done,Recomended to Final Round,C,Pitched,Invited to Join C5,Editute_Cohort5_NIC Islamabad,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,No email response for docs submission,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,email response with no drive folder link,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,emailed asking to be deferred,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Total Submissions,,,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
